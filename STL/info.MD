@@ -2,3 +2,4 @@
 
 * [Kursüberblick](kursueberblick/info.MD)
 * [Termine Sommersemester 2025](termine/info.MD)
+* [Technologien](tools_and_technologies/info.MD)
