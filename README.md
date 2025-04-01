@@ -1,6 +1,5 @@
-# DataManagement
+# DataManagement / Datenmanagement
 
-# Achtung, das Repository befindet sich bis zum Hochfahren der Website der Frankfurt University unter:
-https://github.com/mgruene/DataManagement
+In diesem Repository finden Sie Unterlagen zu meinen Kursen im Datenmanagement an der 
+Frankfurt University of Applied Sciences. 
 
-Data Management / Datenmanagement - Unterrichtsmaterial
