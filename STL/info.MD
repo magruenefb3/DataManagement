@@ -2,5 +2,5 @@
 
 Hier geht es weiter zum 
 
-* [Kursüberblick](STL/kursueberblick.MD)
+* [Kursüberblick](kursueberblick.MD)
 
