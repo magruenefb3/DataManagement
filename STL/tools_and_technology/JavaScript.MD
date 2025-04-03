@@ -161,7 +161,22 @@ arr.forEach((element)=>{
     Logger.log(element);
 })
 
+// Ausdrucken auch des Indexes
 arr.forEach((, index)=>{
     Logger.log(element, index);
 })
+
+// Arrays mit Objekten füllen
+const myArray = []; // leeres Array
+  for(let q=0; q<10; q++){
+    const temp = {
+      'first' : 'Myname'+q,
+      'last' : 'Laster'+q
+    };
+    myArray.push(temp);
+  }
+  
+  myArray.forEach((person)=>{
+    Logger.log(person.first + person.last);
+  })
 ```  

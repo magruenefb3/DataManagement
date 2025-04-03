@@ -6,10 +6,13 @@ Hier werden Programmiersprachen und andere IT-Inhalte eingepflegt.
 
 ## Apps Script (Google)  
 
-* Weitere Informationen finden Sie unter diesem [Link](apps_script.MD)
+* Weitere Informationen finden Sie unter diesem [Link](AppsScriptResources.MD)
 
 ## JavaScript  
 
-* Link zu JavaScript [Link](JavaScript.MD)
+* Kurzüberblick JavaScript [Link](JavaScript.MD)
+* JavaScript und Apps Script [Link](JavaScriptAndAppsScript.MD)
+
+
 
 ## CSS  
