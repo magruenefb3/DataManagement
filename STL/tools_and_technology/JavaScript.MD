@@ -88,7 +88,6 @@ let vollstName = meinObjekt.vollstaendigerName();
 Logger.log(vollstName);
 ```
 
-
 ### Arrays
 
 Index startet bei 0.
@@ -127,5 +126,42 @@ const laenge = meinArray.length;
 
 ## Schleifen und Verzweigungen
 
+For- und While-Schleife
 
+``` JavaScript
+function output1() {
+    for  (let i =0; i<10;i++){
+        Logger.log('i: '+i);
+    }
 
+    let j = 0;
+    while(j < 10) {
+        Logger.log('j:' +j);
+        j++;
+    }
+}
+```
+
+Durch ein Array iterieren.
+
+``` JavaScript
+const arr = ['Müller', 'Meier', 'Schulze'];
+function output2() {
+    for  (let i = 0; i<arr.length; i++){
+        Logger.log('Array-Wert: ' + arr[i]);
+
+    }
+}
+```
+
+Die folgende Methode kann zum Iterieren durch ein Array verwendet werden. Dabei wird eine Funktion hinter dem => definiert, die auf jedes Element angewandt wird.
+
+```JavaScript
+arr.forEach((element)=>{
+    Logger.log(element);
+})
+
+arr.forEach((, index)=>{
+    Logger.log(element, index);
+})
+```  
