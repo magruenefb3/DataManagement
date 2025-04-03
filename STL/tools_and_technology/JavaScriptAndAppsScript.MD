@@ -30,5 +30,4 @@ Objekte können voneinandere entkoppelt werden. Dies geht, indem ein Objekt erst
   Logger.log(meinObjekt2);
   Logger.log(meinObjekt1);
  ```
-
-
+  

@@ -79,7 +79,7 @@
 ## **LE: 10.06.2025**: Überarbeitung
 
 * An diesem Termin überarbeiten Sie Ihre Anwendungen gemeinsam mit dem Dozenten und den Studierenden in Ihrem Kurs.  
-* Sie sollten gegenseitig auch Ihre Anwendungen testen. 
+* Sie sollten gegenseitig auch Ihre Anwendungen testen.
 
 ## **LE: 17.06.2025**: Projekt-Vorstellung  
 
@@ -89,4 +89,3 @@
 ## **LE: 24.06.2025**: Präsentationen
 
 ## **LE: 01.07.2025**: Präsentationen
-
