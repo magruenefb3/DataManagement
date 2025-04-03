@@ -1,0 +1,87 @@
+Fachbereich 1: Architektur • Bauingenieurwesen • Geomatik
+1	Bachelor of Arts	Architektur	Bachelor of Arts in Architektur
+1	Bachelor of Engineering	Bauingenieurwesen	Bachelor of Engineering in Bauingenieurwesen
+1	Bachelor of Engineering	Bauingenieurwesen dual	Bachelor of Engineering in Bauingenieurwesen dual
+1	Bachelor of Engineering	Geodatenmanagement	Bachelor of Engineering in Geodatenmanagement
+1	Bachelor of Engineering	Geodatenmanagement dual - ausbildungsintegrierte Studienvariante	Bachelor of Engineering in Geodatenmanagement dual - ausbildungsintegrierte Studienvariante
+1	Bachelor of Engineering	Geodatenmanagement dual - praxisintegrierte Studienvariante	Bachelor of Engineering in Geodatenmanagement dual - praxisintegrierte Studienvariante
+1	Bachelor of Engineering	Infrastruktur und Umwelt	Bachelor of Engineering in Infrastruktur und Umwelt
+1	Bachelor of Engineering	Infrastruktur und Umwelt dual - praxisintegrierte Studiengangsvariante	Bachelor of Engineering in Infrastruktur und Umwelt dual - praxisintegrierte Studiengangsvariante
+1	Bachelor of Science	Real Estate und Facility Management	Bachelor of Science in Real Estate und Facility Management
+1	Bachelor of Engineering	Real Estate und Integrale Gebäudetechnik	Bachelor of Engineering in Real Estate und Integrale Gebäudetechnik
+1	Bachelor of Engineering	Stadtplanung	Bachelor of Engineering in Stadtplanung
+
+Fachbereich 2: Informatik und Ingenieurwissenschaften
+2	Bachelor of Science	Angewandte Biowissenschaften dual	Bachelor of Science in Angewandte Biowissenschaften dual
+2	Bachelor of Engineering	Bioverfahrenstechnik	Bachelor of Engineering in Bioverfahrenstechnik
+2	Bachelor of Engineering	Bioverfahrenstechnik – duales Studium	Bachelor of Engineering in Bioverfahrenstechnik – duales Studium
+2	Bachelor of Engineering	Elektro- und Informationstechnik	Bachelor of Engineering in Elektro- und Informationstechnik
+2	Bachelor of Engineering	Elektro- und Informationstechnik - duales Studium	Bachelor of Engineering in Elektro- und Informationstechnik - duales Studium
+2	Bachelor of Science	Engineering Business Information Systems (Wirtschaftsinformatik)	Bachelor of Science in Engineering Business Information Systems (Wirtschaftsinformatik)
+2	Bachelor of Science	Informatik	Bachelor of Science in Informatik
+2	Bachelor of Science	Informatik dual	Bachelor of Science in Informatik dual
+2	Bachelor of Science	Informatik – mobile Anwendungen	Bachelor of Science in Informatik – mobile Anwendungen
+2	Bachelor of Science	International Business Information Systems	Bachelor of Science in International Business Information Systems
+2	Bachelor of Engineering	Maschinenbau	Bachelor of Engineering in Maschinenbau
+2	Bachelor of Engineering	Maschinenbau dt. -span. Doppelabschluss	Bachelor of Engineering in Maschinenbau dt. -span. Doppelabschluss
+2	Bachelor of Engineering	Maschinenbau – duales Studium	Bachelor of Engineering in Maschinenbau – duales Studium
+2	Bachelor of Engineering	Maschinenbau – focusing	Bachelor of Engineering in Maschinenbau – focusing
+2	Bachelor of Engineering	Maschinenbau Online	Bachelor of Engineering in Maschinenbau Online
+2	Bachelor of Engineering	Mechatronik	Bachelor of Engineering in Mechatronik
+2	Bachelor of Engineering	Produktentwicklung und Technisches Design	Bachelor of Engineering in Produktentwicklung und Technisches Design
+2	Bachelor of Engineering	Produktentwicklung und Technisches Design – duales Studium	Bachelor of Engineering in Produktentwicklung und Technisches Design – duales Studium
+2	Bachelor of Engineering	Produktentwicklung und Technisches Design – focus!ng	Bachelor of Engineering in Produktentwicklung und Technisches Design – focus!ng
+2	Bachelor of Engineering	Service Engineering (Wirtschaftsingenieurwesen Service)	Bachelor of Engineering in Service Engineering (Wirtschaftsingenieurwesen Service)
+2	Bachelor of Engineering	Service Engineering – duales Studium	Bachelor of Engineering in Service Engineering – duales Studium
+2	Bachelor of Science	Wirtschaftsinformatik	Bachelor of Science in Wirtschaftsinformatik
+2	Bachelor of Engineering	Wirtschaftsingenieurwesen Online	Bachelor of Engineering in Wirtschaftsingenieurwesen Online
+
+Fachbereich 3: Wirtschaft und Recht
+3	Bachelor of Arts	Betriebswirtschaftslehre	Bachelor of Arts in Betriebswirtschaftslehre
+3	Bachelor of Arts	Betriebswirtschaft mit Doppelabschluss	Bachelor of Arts in Betriebswirtschaft mit Doppelabschluss
+3	Bachelor of Arts	International Business Administration	Bachelor of Arts in International Business Administration
+3	Bachelor of Science	International Finance	Bachelor of Science in International Finance
+3	Bachelor of Arts	Luftverkehrsmanagement dual	Bachelor of Arts in Luftverkehrsmanagement dual
+3	Bachelor of Arts	Public Administration dual	Bachelor of Arts in Public Administration dual
+3	Bachelor of Arts	Public und Non-Profit Management	Bachelor of Arts in Public und Non-Profit Management
+3	Bachelor of Arts	Steuerlehre dual	Bachelor of Arts in Steuerlehre dual
+3	Bachelor of Arts	Tourismusmanagement – Tourism Management dual	Bachelor of Arts in Tourismusmanagement – Tourism Management dual
+3	Bachelor of Laws	Wirtschaftsrecht (Business Law)	Bachelor of Laws in Wirtschaftsrecht (Business Law)
+
+Fachbereich 4: Soziale Arbeit und Gesundheit
+4	Bachelor of Science	Angewandte Pflegewissenschaft dual	Bachelor of Science in Angewandte Pflegewissenschaft dual
+4	Bachelor of Arts	Berufspädagogik für Pflege- und Gesundheitsberufe	Bachelor of Arts in Berufspädagogik für Pflege- und Gesundheitsberufe
+4	Bachelor of Science	Hebammenwissenschaft	Bachelor of Science in Hebammenwissenschaft
+4	Bachelor of Arts	Management Pflege und Gesundheit	Bachelor of Arts in Management Pflege und Gesundheit
+4	Bachelor of Arts	Soziale Arbeit	Bachelor of Arts in Soziale Arbeit
+4	Bachelor of Arts	Soziale Arbeit :transnational	Bachelor of Arts in Soziale Arbeit :transnational
+
+Masterstudiengänge (Auswahl)
+M.Sc.	Accounting and Finance	Master of Science in Accounting and Finance
+M.Sc.	Advanced Architecture	Master of Science in Advanced Architecture
+M.Sc.	Allgemeine Informatik	Master of Science in Allgemeine Informatik
+M.Eng.	Allgemeiner Maschinenbau	Master of Engineering in Allgemeiner Maschinenbau
+M.Eng.	Bio- und Umwelttechnik	Master of Engineering in Bio- und Umwelttechnik
+M.A.	Beratung in der Arbeitswelt	Master of Arts in Beratung in der Arbeitswelt
+M.A.	Berufspädagogik für Pflege	Master of Arts in Berufspädagogik für Pflege
+M.A.	Diversität und Inklusion	Master of Arts in Diversität und Inklusion
+M.Sc.	Facility und Real Estate Management	Master of Science in Facility und Real Estate Management
+M.A.	Forschung in der Sozialen Arbeit	Master of Arts in Forschung in der Sozialen Arbeit
+M.Eng.	Geodatenmanagement	Master of Engineering in Geodatenmanagement
+M.Sc.	Global Logistics	Master of Science in Global Logistics
+M.Sc.	High Integrity Systems	Master of Science in High Integrity Systems
+M.Sc.	Inclusive Design	Master of Science in Inclusive Design
+M.Eng.	Infrastruktur – Wasser und Verkehr	Master of Engineering in Infrastruktur – Wasser und Verkehr
+M.A.	Leadership	Master of Arts in Leadership
+M.A.	Performative Künste in sozialen Feldern	Master of Arts in Performative Künste in sozialen Feldern
+M.Sc.	Pflege – Advanced Practice Nursing	Master of Science in Pflege – Advanced Practice Nursing
+M.A.	Pflege- und Gesundheitsmanagement	Master of Arts in Pflege- und Gesundheitsmanagement
+M.A.	Psychosoziale Beratung und Recht	Master of Arts in Psychosoziale Beratung und Recht
+M.Sc.	Strategisches Informationsmanagement	Master of Science in Strategisches Informationsmanagement
+M.A.	Suchttherapie und Sozialmanagement in der Suchthilfe	Master of Arts in Suchttherapie und Sozialmanagement in der Suchthilfe
+MBA	Sustainable Business Development	Master of Business Administration in Sustainable Business Development
+M.Eng.	Umweltmanagement und Stadtplanung in Ballungsräumen	Master of Engineering in Umweltmanagement und Stadtplanung in Ballungsräumen
+M.Sc.	Urban Agglomerations	Master of Science in Urban Agglomerations
+LL.M.	Verhandeln und Gestalten von Verträgen	Master of Laws in Verhandeln und Gestalten von Verträgen
+M.Sc.	Wirtschaftsinformatik	Master of Science in Wirtschaftsinformatik
+M.Eng.	Zukunftssicher Bauen	Master of Engineering in Zukunftssicher Bauen
