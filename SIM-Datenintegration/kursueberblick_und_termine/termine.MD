@@ -54,7 +54,7 @@
 
 ## **LE: x.x.2025**: Datenmodellierung für das Professoreninformationssystem und Vergabe der Präsentationsthemen
 
-* Überarbeitung des **Data Catalogs/ Data Dictionaries** für die Datenbank 
+* Überarbeitung des **Data Catalogs/ Data Dictionaries** für die Datenbank  
 * Identifizierung der relevanten Daten für das System: Professoren, Studierende, Themenvorschläge, Bewerbungen, Termine.
 * Umsetzung des **Datenmodell**s in die Struktur der gewählten "Datenbank" (Google Sheets Tabellen oder RDBS) und Verfeinerung des Data Catalogs.
 
