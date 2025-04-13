@@ -60,7 +60,8 @@
 
 ## **LE: x.x.2025**: Erweiterung und gemeinsame Diskussion des Datenmodells / Puffer zum Aufholen bzw. Nacharbeiten
 
-Datenmodell erweitern und dokumentieren, z.B.:
+Datenmodell erweitern und dokumentieren, z.B.  
+
 * Erfassung der PO,  
 * Terminplanung,  
 * Bewerbungen,  
@@ -98,4 +99,3 @@ Alternativ werden weitere Technologien ausprobiert, z.B. PowerAutomate
 ## **LE: x.x.2025**: Projekt-Vorstellung  
 
 * Sie präsentieren Ihre Anwendung und gehen auch darauf ein, wie Sie diese beim nächsten Mal verbessern würden. Welche Probleme hatten Sie, wie sind Sie diese umgangen?  
-
