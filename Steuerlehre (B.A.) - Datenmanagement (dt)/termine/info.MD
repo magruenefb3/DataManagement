@@ -2,22 +2,33 @@
 
 ## **LE: 15.04.2025**: Datenmanagement und Webanwendungen
 
-* Datenmanagement
-  * Definition und Teilbereich
-  * Grundlagen: Daten, Informationen, Datenbanken (basierend auf Tabellenkalkulationen).
-* Einführung in die Webprogrammierung:
-  * Client-Server-Architektur (vereinfacht)
-  * Frontend: HTML / Markdown, CSS, JavaScript
-  * Backend: Apps Script (Google), JavaScript
-* Vorstellung des Anwendungsfalls
-* Hausaufgabe: Erstellen Sie eine Skizze, wie Sie die Webentwicklung umsetzen würden (Technologie und Vorgehen). Jeder Teilnehmer entwickelt eine eigene Lösung!
+* Fallstudie **Kindergarten** - eigene Erstellung eines Datenmodells in Excel.
+  * Aufteilung der "Objekte" (Kind, Eltern, ...) auf Tabs
+  * Ausschluss "nicht so wichtiger" Teile aus der Fallstudie (Räume, ...)
+* Daten, Informationen, Wissen, ...
+  * Daten (strukturierte = Tabellen, unstrukturierte), Informationen (Interpretation durch Nutzerin / Nutzer), Wissen (Anwendung im betrieblichen Alltag zur Ausführung von Tätigkeiten)  
+* Datenbanken (basierend auf Tabellenkalkulationen).
+  * ANSI/SPARC-Modell  (View, konz. Ebene, log. Ebene ...)
+  * Gestaltung einer Tabelle (Datentypen, Spalten, Zeilen und alternative Benennung der Elemente (Tupel, Datensatz, Domäne))
+* Einführung in die Webprogrammierung (Teil 1):
+  * HTML als Beispiel für nicht-tabellenartige (nicht-relationale) Datenstrukturen  --> Elemente von HTML: Tags (öffnend, schließend; html, head, body)
+
+**Hausaufgaben:**  
+
+1. Datenmodell für Kindergarten zuende erstellen  
+2. Eine HTML-Seite erstellen in einem beliebigen Editor;   * Die Seite soll eine Überschrift erster Ordnung mit der Beschriftung "Hallo Welt" und einen Paragraphen mit einem beliebigen Text enthalten. Erstellen Sie die Seite in einem beliebigen Editor Ihrer Wahl.
 
 ## **LE: 22.04.2025**: Website-Grundlagen (Frontend)
 
-* Einführung in HTML  
-  * Aufgabe: Erstellen Sie eine einfache HTML-Seite. Die Seite soll eine Überschrift erster Ordnung mit der Beschriftung "Hallo Welt" und einen Paragraf mit einem beliebigen Text enthalten. Erstellen Sie die Seite in einem beliebigen Editor Ihrer Wahl.
-  * Aufgabe: Erstellen Sie in HTML ein Formular, in das Sie einen Vor- und Nachnamen sowie eine Matrikelnummer eintragen können. Für Fortgeschrittene: das Formular enthält außerdem eine Mailadresse.
-  * Aufgabe: Erstellen Sie das Formular aus der vorherigen Aufgabe mit Google Forms: [YouTube-Video](https://youtu.be/5K4le-zJhfQ?si=L_brYyiURWke0JPu)
+* Einführung in die Webprogrammierung (Teil 2):
+  * Frontend: HTML (Markdown), Formulare in HTML, CSS, JavaScript
+  * Backend: Apps Script (Google), JavaScript  
+
+* Aufgabe: Erstellen Sie in HTML ein Formular, in das Sie einen Vor- und Nachnamen sowie eine Matrikelnummer eintragen können. Für Fortgeschrittene: das Formular enthält außerdem eine Mailadresse.  
+  
+* Vorstellung des Anwendungsfalls - **Professoren-Informationssystem**  
+  
+* Aufgabe: Erstellen Sie das Formular aus der vorherigen Aufgabe mit Google Forms: [YouTube-Video](https://youtu.be/5K4le-zJhfQ?si=L_brYyiURWke0JPu)
 * Einführung in CSS: Sofern zeitlich möglich: [Web Site](https://www.w3schools.com/Css/default.asp)
 
 ## **LE: 29.04.2025**: Datenhaltung (Backend)
