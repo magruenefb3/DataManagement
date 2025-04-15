@@ -2,4 +2,4 @@
 
 * [Kursüberblick](kursueberblick/info.MD)
 * [Termine Sommersemester 2025](termine/info.MD)
-* [Technologien](tools_and_technology/info.MD)
+* [Technologien](https://github.com/magruenefb3/tools_and_technologies/blob/main/info.MD)
