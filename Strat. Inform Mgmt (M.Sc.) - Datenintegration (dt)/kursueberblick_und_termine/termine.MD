@@ -7,7 +7,7 @@
 
 * Hausaufgabe  
   
-  * In Github-Desktop einarbeiten --> Ziel: Sie können eigene Repos (Repositories) mit Github erstellen und Repositories herunterladen. ![How to Use Git & GitHub Desktop Tutorial for Beginners (Cameron McKenzie)](https://www.youtube.com/watch?v=MaqVvXv6zrU)
+  * In Github-Desktop einarbeiten --> Ziel: Sie können eigene Repos (Repositories) mit Github erstellen und Repositories herunterladen. [How to Use Git & GitHub Desktop Tutorial for Beginners (Cameron McKenzie)](https://www.youtube.com/watch?v=MaqVvXv6zrU)
 
 ## **LE: 17.04.2025**: Webprogrammierung
 
