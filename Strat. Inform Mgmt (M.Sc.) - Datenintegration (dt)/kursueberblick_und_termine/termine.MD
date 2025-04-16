@@ -11,6 +11,7 @@
 
 ## **LE: 17.04.2025**: Webprogrammierung
 
+* Vorlesungen K2 und K3
 * High-Level Einführung in die Webprogrammierung:
   * Frontend: HTML / Markdown, CSS, JavaScript
   * Backend: Apps Script (Google), JavaScript
