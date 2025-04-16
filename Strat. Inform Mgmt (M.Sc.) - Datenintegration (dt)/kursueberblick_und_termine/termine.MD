@@ -13,7 +13,8 @@
 
 * Vorlesungen K2 und K3
 * High-Level Einführung in die Webprogrammierung:
-  * Frontend: HTML / Markdown, CSS, JavaScript
+  * Frontend: HTML, CSS, JavaScript --> [Harvard CS50 Chapter 8](https://cs50.harvard.edu/x/2023/sections/8/)
+
   * Backend: Apps Script (Google), JavaScript
 * Tools:
   * Github Desktop
