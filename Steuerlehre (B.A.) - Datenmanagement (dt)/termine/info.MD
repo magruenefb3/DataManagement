@@ -21,7 +21,8 @@
 ## **LE: 22.04.2025**: Website-Grundlagen (Frontend)
 
 * Einführung in die Webprogrammierung (Teil 2):
-  * Frontend: HTML (Markdown), Formulare in HTML, CSS, JavaScript
+  * Frontend: [HTML-Einführung auf SelfHTML, inkl. CSS](https://wiki.selfhtml.org/wiki/Einstieg_in_HTML/Erste_Schritte)
+  * Formulare in HTML, CSS, JavaScript
   * Backend: Apps Script (Google), JavaScript  
 
 * Aufgabe: Erstellen Sie in HTML ein Formular, in das Sie einen Vor- und Nachnamen sowie eine Matrikelnummer eintragen können. Für Fortgeschrittene: das Formular enthält außerdem eine Mailadresse.  
