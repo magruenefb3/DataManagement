@@ -2,6 +2,9 @@
 
 ## Bekanntgabe und Zulosung der Themen am 13.05.2025
 
+## Abgabe der Präsentationen
+
+Abgabe bis zum 10.06.2025, 23:59 Uhr
 
 ## Präsentationstermin am 24.06.2025
 
