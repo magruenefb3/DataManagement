@@ -13,9 +13,9 @@
 
 * Vorlesungen K2 und K3
 * High-Level Einführung in die Webprogrammierung:
-  * Frontend: HTML, CSS, JavaScript --> [Harvard CS50 Chapter 8](https://docs.google.com/presentation/d/1z8dRwgxwGIY0img4BefkxRhaeBMBtkYr0O0AYpad-y8/edit?slide=id.g11a9e948197_0_113#slide=id.g11a9e948197_0_113)
+  * Hausaufgabe: Frontend: HTML, CSS, JavaScript --> [Harvard CS50 Chapter 8](https://docs.google.com/presentation/d/1z8dRwgxwGIY0img4BefkxRhaeBMBtkYr0O0AYpad-y8/edit?slide=id.g11a9e948197_0_113#slide=id.g11a9e948197_0_113)
+  * Backend: Apps Script (Google) --> Demonstration der Möglichkeiten
 
-  * Backend: Apps Script (Google), JavaScript
 * Tools:
   * Github Desktop
 
@@ -28,20 +28,19 @@
   * Das Team: wer macht was?
   * Ausgewählte Technologie zur Erstellung der Anwendung
 
-* Hausaufgabe II: Erstellen Sie ein Data Dictionary / eine Data Catalog (zum Google Sheet); wenn Sie in Excel entwickeln wollen, erstellen Sie das Data-Dictionary für das Excel-Sheet
+* Hausaufgabe II: Erstellen Sie ein Data Dictionary / einen Data Catalog (zum Google Sheet); wenn Sie in Excel entwickeln wollen, erstellen Sie das Data-Dictionary für das Excel-Sheet
 
 ## **LE: 24.04.2025**: Website-Grundlagen (Frontend)
 
-* HTML  
-  * Aufgabe: Erstellen Sie eine einfache HTML-Seite für das Professoren-Informationssystem. Erstellen Sie die Seite in einem beliebigen Editor Ihrer Wahl, z.B. VSCode.
-  * Aufgabe: Erstellen Sie in HTML ein Formular, in das Sie einen Vor- und Nachnamen sowie eine Matrikelnummer eintragen können. Für Fortgeschrittene: das Formular enthält außerdem eine Mailadresse (die zu prüfen ist).
-  * Aufgabe: Erstellen Sie das Formular aus der vorherigen Aufgabe mit Google Forms: [YouTube-Video](https://youtu.be/5K4le-zJhfQ?si=L_brYyiURWke0JPu)
-* Einführung in CSS: Sofern zeitlich möglich: [Web Site](https://www.w3schools.com/Css/default.asp)
-
-## Ab hier zu überarbeiten, je nach Kursfortschritt
+* Besprechung der Spezifikation (Github-Link wurde verteilt)
+* Praxis: HTML  
+  * Erstellung von Formularen in Google Apps Script / Google Forms sowie Speichern der Formulardaten (Vor- und Nachname, Matrikelnummer, Mails). 
+  * Forms als Video: [YouTube-Video](https://youtu.be/5K4le-zJhfQ?si=L_brYyiURWke0JPu)
+* Vorlesung: Data Provenance
 
 ## **LE: x.x.2025**: Datenhaltung (Backend)
 
+* Vorlesung: RDBMS - sehr kurz
 * Strukturierung der Tabellen (Themen, Studierende, Termine etc.)  
 * Apps Script - Grundlagen von JavaScript und Apps Script; Lesen und Schreiben in Google Sheets
 * Einfache Funktionen in Apps Script entwickeln.
