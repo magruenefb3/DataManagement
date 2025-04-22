@@ -25,6 +25,13 @@
   * Frontend: [Formulare in HTML auf HTML-Seminar](https://www.html-seminar.de/formulare.htm), JavaScript
   * Backend: Apps Script (Google), JavaScript, ggf. 29.04.2025  
 
+JavaScript Code für das Hosting statischer Websites in Google Workspace:
+```JavaScript 
+function doGet() {
+  return HtmlService.createHtmlOutputFromFile('Index');
+}
+```
+
 * Aufgabe: Erstellen Sie in HTML ein Formular, in das Sie einen Vor- und Nachnamen, eine Matrikelnummer und eine Mailadresse eingeben können.  
   
 * Vorstellung des Anwendungsfalls - **Professoren-Informationssystem**  
