@@ -10,11 +10,11 @@ Abgabe bis zum 10.06.2025, 23:59 Uhr
 
 | Uhrzeit | Thema | Studierende/r | Thema |
 |---|---|---| --- |
-| 08:30 - 08:45 | TBD | TBD | T1 |
-| 08:45 - 09:00 | TBD | TBD | T2 |
-| 09:00 - 09:15 | TBD | TBD | T3 |
-| 09:15 - 09:30 | TBD | TBD | T4 |
-| 09:30 - 09:45 | TBD | TBD | T5 |
+| 08:30 - 08:45 | Datenmodelle - Normalisierung am Beispiel der Anwendung ProfIS | TBD | T1 |
+| 08:45 - 09:00 | Aufbau von Webanwendungen - JavaScript Framworks (Darstellung eines Frameworks und dessen Vorteile) | TBD | T2 |
+| 09:00 - 09:15 | Datenmodellierung in der Krähenfußnotation (MySQL) - ein Datenmodell für die "Kindergarten"-Datebank | TBD | T3 |
+| 09:15 - 09:30 | JSON als Datenformat - Vor- und Nachteile | TBD | T4 |
+| 09:30 - 09:45 | Datenvisualisierung in Google Workspace mit Hilfe von  | TBD | T5 |
 | 09:45 - 10:00 | TBD | TBD | T6 |
 | PAUSE | | | |
 | 10:15 - 10:30 | TBD | TBD | T7 |
@@ -33,6 +33,5 @@ Abgabe bis zum 10.06.2025, 23:59 Uhr
 | 09:15 - 09:30 | TBD | TBD | T 15 |
 | 09:30 - 09:45 | TBD | TBD | T 16 |
 | 09:45 - 10:00 | TBD | TBD | Puffer |
-| PAUSE | | |
-| 10:15 - 10:45 | Abschlussbesprechung | TBD | 
-
+| PAUSE | | |  |  
+| 10:15 - 10:45 | Abschlussbesprechung | TBD |  |  
