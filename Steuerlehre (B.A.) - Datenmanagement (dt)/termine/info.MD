@@ -18,13 +18,12 @@
 1. Datenmodell für Kindergarten zuende erstellen  
 2. Eine HTML-Seite erstellen in einem beliebigen Editor;   * Die Seite soll eine Überschrift erster Ordnung mit der Beschriftung "Hallo Welt" und einen Paragraphen mit einem beliebigen Text enthalten. Erstellen Sie die Seite in einem beliebigen Editor Ihrer Wahl.
 
-## **LE: 22.04.2025**: Website-Grundlagen (Frontend)
+## **LE: 22.04.2025**: Website-Grundlagen (Frontend) und konzeptionelle Datenmodellierung (ER-Modell)
 
-* Einführung in die Webprogrammierung (Teil 2):
-  * Frontend: [HTML-Einführung auf SelfHTML, inkl. CSS](https://wiki.selfhtml.org/wiki/Einstieg_in_HTML/Erste_Schritte)
-  * Frontend: [Formulare in HTML auf HTML-Seminar](https://www.html-seminar.de/formulare.htm), JavaScript
-  * Backend: Apps Script (Google), JavaScript, ggf. 29.04.2025  
-
+Ausfall des WLANs!!!
+* Einführung in die Webprogrammierung / HTML (Teil 2):
+  * Frontend: [HTML-Einführung auf SelfHTML, inkl. erste Schritte in CSS](https://wiki.selfhtml.org/wiki/Einstieg_in_HTML/Erste_Schritte)
+  * Einführung in CSS (zur Vertiefung): Sofern zeitlich möglich: [Web Site](https://www.w3schools.com/Css/default.asp)  
 JavaScript Code für das Hosting statischer Websites in Google Workspace:
 ```JavaScript 
 function doGet() {
@@ -32,24 +31,30 @@ function doGet() {
 }
 ```
 
-* Aufgabe: Erstellen Sie in HTML ein Formular, in das Sie einen Vor- und Nachnamen, eine Matrikelnummer und eine Mailadresse eingeben können.  
-  
-* Vorstellung des Anwendungsfalls - **Professoren-Informationssystem**  
-  
-* Aufgabe: Erstellen Sie das Formular aus der vorherigen Aufgabe mit Google Forms: [YouTube-Video](https://youtu.be/5K4le-zJhfQ?si=L_brYyiURWke0JPu)
-* Einführung in CSS: Sofern zeitlich möglich: [Web Site](https://www.w3schools.com/Css/default.asp)
+* Ideen zur Gestaltung von Datenbanken am Beispiel der Kindergarten-Fallstudie
+  * Entity-Relationship-Modell (nach Chen)
+    * Entities
+    * Relationships
+    * Kardinalitäten --> (1,*), (0,*), (1,1), (0,1) Kardina
+  * Wo gehören die Verweise / Referenzen hin?
+  * Was ist das Ziel der Datenmodellierung? Keine NULL-Werte (sinngem. leere Felder), Vermeidung redundanter Einträge
 
 ## **LE: 29.04.2025**: Datenhaltung (Backend)
 
+* Frontend: Gestaltung von Web-Formularen als Eingabemasken für eine Anwendung
+  * HTML-Formulare: [Link zu HTML-Seminar](https://www.html-seminar.de/formulare.htm)
+  * Aufgabe: Erstellen Sie in HTML ein Formular, in das Sie einen Vor- und Nachnamen, eine Matrikelnummer und eine Mailadresse eingeben können.  
+  * Google Forms: an ein Sheet gebundenes Formular und ungebundenes Formular
+  * Aufgabe: Erstellen Sie das Formular aus der vorherigen Aufgabe mit Google Forms: [YouTube-Video](https://youtu.be/5K4le-zJhfQ?si=L_brYyiURWke0JPu)
+
+* Backend: Apps Script (Google), JavaScript  
+  
+* Vorstellung des Anwendungsfalls - **Professoren-Informationssystem**  
+  
 * Für Studierende mit **wenig IT-Erfahrung (BASIC)**:  
   * Google Sheets und Apps Script: Strukturierung von Tabellen (Themen, Studierende, Termine etc.)  
   * Apps Script - Grundlagen von JavaScript und Apps Script; Lesen und Schreiben in Google Sheets
   * Einfache Funktionen in Apps Script entwickeln.
-* Für Studierende mit **umfassender IT-Erfahrung (ADVANCED)**:
-  * Eigenständige Einarbeitung in eine Plattform, z.B. Supabase (o.a.)
-  * Einrichtung eines Projektes in der Plattform
-  * Aufsetzen einer Backend-Datenbank (Postgresql)
-  * Daten aus Formular in Backend-Datenbank schreiben.
 
 ## **LE: 06.05.2025**: Interaktion zwischen Frontend und Backend  
 
