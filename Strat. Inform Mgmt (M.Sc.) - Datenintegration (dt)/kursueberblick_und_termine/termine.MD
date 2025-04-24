@@ -33,10 +33,10 @@
 ## **LE: 24.04.2025**: Website-Grundlagen (Frontend)
 
 * Besprechung der Spezifikation (Github-Link wurde verteilt)
-* Praxis: HTML  
+* Vorlesungsinhalte (Kapitel 2 und ggf. 3), Data Provenance
+* Praxis: HTML  (Eigenarbeit)
   * Erstellung von Formularen in Google Apps Script / Google Forms sowie Speichern der Formulardaten (Vor- und Nachname, Matrikelnummer, Mails). 
   * Forms als Video: [YouTube-Video](https://youtu.be/5K4le-zJhfQ?si=L_brYyiURWke0JPu)
-* Vorlesung: Data Provenance
 
 ## **LE: x.x.2025**: Datenhaltung (Backend)
 
