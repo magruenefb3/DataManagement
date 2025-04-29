@@ -78,6 +78,10 @@ _Ziele_:
 2. Sie haben die Grundzüge der Datenmodellierung wiederholt.
 3. Sie haben Google Sheets und die Apps Scripts-Entwicklungsumgebung kennengelernt.
 
+### Hausaufgabe
+
+Erstellen Sie das Datemodell für das Professoren-IS in Anlehnung an das Tafelbild der Vorlesung. Achten Sie darauf, dass trotz des "Aufbrechens" in mehrere Tabellen die Datensätze wieder rekonstruiert werden können. 
+
 ## **LE: 06.05.2025**: Datenmodellierung, Interaktion zwischen Frontend und Backend  
 
 * Erstellung des Datenmodells für die Anwendung
