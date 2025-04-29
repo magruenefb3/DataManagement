@@ -6,10 +6,11 @@
 
 ## Formulare erstellen
 
-Mit folgendem Code können Sie eine Website erstellen, die ein Formular enthält. 
+Mit folgendem Code können Sie eine Website erstellen, die ein Formular enthält.  
 Das Formular sendet mit der get-Methode unverschlüsselt die Daten an die Seite empfaenger.html.
 
 Benennen Sie das HTML-Dokument z.B. form.html
+
 ```HTML
 <!DOCTYPE html>
 <html lang="de">

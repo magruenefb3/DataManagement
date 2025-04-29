@@ -21,11 +21,13 @@
 ## **LE: 22.04.2025**: Website-Grundlagen (Frontend) und konzeptionelle Datenmodellierung (ER-Modell)
 
 Ausfall des WLANs!!!
-* Einführung in die Webprogrammierung / HTML (Teil 2):
+
+* Einführung in die Webprogrammierung / HTML (Teil 2):  
   * Frontend: [HTML-Einführung auf SelfHTML, inkl. erste Schritte in CSS](https://wiki.selfhtml.org/wiki/Einstieg_in_HTML/Erste_Schritte)
   * Einführung in CSS (zur Vertiefung): Sofern zeitlich möglich: [Web Site](https://www.w3schools.com/Css/default.asp)  
 JavaScript Code für das Hosting statischer Websites in Google Workspace:
-```JavaScript 
+
+```JavaScript
 function doGet() {
   return HtmlService.createHtmlOutputFromFile('Index');
 }

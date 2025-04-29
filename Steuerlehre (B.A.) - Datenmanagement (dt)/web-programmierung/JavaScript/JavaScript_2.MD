@@ -1,6 +1,6 @@
-# Kontrollstrukturen 
+# Kontrollstrukturen  
 
-Auf dieser Seite werden Kontrollstrukturen beschrieben, die für die Steuerung des Programmflusses in JavaScript benötigt werden. 
+Auf dieser Seite werden Kontrollstrukturen beschrieben, die für die Steuerung des Programmflusses in JavaScript benötigt werden.  
 
 ## Wenn-Dann
 
@@ -40,8 +40,8 @@ if (bedingung) {
 
 Wenn wir mehrere Bedingungen nacheinander prüfen müssen, können wir die `else if`-Anweisung verwenden. Sie wird nach einer `if`-Anweisung und vor einer optionalen else-Anweisung eingesetzt.  
 
-JavaScript: `else if` 
-Python: `elif`
+* JavaScript: `else if`  
+* Python: `elif`
 
 **Beispiel:**
 
@@ -67,7 +67,7 @@ console.log(`Die Note ${note} entspricht dem Buchstaben ${grade}.`);
 
 ### `switch`-Anweisung
 
-Die `switch`-Anweisung bietet eine alternative Möglichkeit, Entscheidungen basierend auf dem Wert eines Ausdrucks zu treffen. Sie ist oft übersichtlicher, wenn man einen einzelnen Ausdruck gegen mehrere konstante Werte prüfen möchte. 
+Die `switch`-Anweisung bietet eine alternative Möglichkeit, Entscheidungen basierend auf dem Wert eines Ausdrucks zu treffen. Sie ist oft übersichtlicher, wenn man einen einzelnen Ausdruck gegen mehrere konstante Werte prüfen möchte.  
 
 ```JavaScript
 switch (ausdruck) {
