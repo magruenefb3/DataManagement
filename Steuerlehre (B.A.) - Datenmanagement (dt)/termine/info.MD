@@ -52,7 +52,9 @@ function doGet() {
 * Backend: Apps Script (Google), JavaScript  
   
 * Vorstellung des Anwendungsfalls - **Professoren-Informationssystem**  
+* Link zum Spreadsheet (nicht normalisiert) [Link](https://docs.google.com/spreadsheets/d/14UXLHS_SVjxtBZFRmOzRuB5h-hTDZAMputGTWFoClPc/edit?usp=drive_link)  
   
+
 * Für Studierende mit **wenig IT-Erfahrung (BASIC)**:  
   * Google Sheets und Apps Script: Strukturierung von Tabellen (Themen, Studierende, Termine etc.)  
   * Apps Script - Grundlagen von JavaScript und Apps Script; Lesen und Schreiben in Google Sheets

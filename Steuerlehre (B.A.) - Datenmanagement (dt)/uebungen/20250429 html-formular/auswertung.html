@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularauswertung</title>
+</head>
+<body>
+
+    <h1>Auswertung der Formulardaten</h1>
+
+    <div id="ausgabeBereich">
+        </div>
+
+    <script>
+        function getQueryParam(name) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(name);
+        }
+
+        const matrikelnummer = getQueryParam('matrikelnummer');
+        const vorname = getQueryParam('vorname');
+        const nachname = getQueryParam('nachname');
+
+        const ausgabeBereich = document.getElementById('ausgabeBereich');
+
+        if (matrikelnummer && vorname && nachname) {
+            ausgabeBereich.innerHTML = `
+                <p><strong>Matrikelnummer:</strong> ${matrikelnummer}</p>
+                <p><strong>Vorname:</strong> ${vorname}</p>
+                <p><strong>Nachname:</strong> ${nachname}</p>
+            `;
+        } else {
+            ausgabeBereich.innerHTML = `<p>Es wurden keine Formulardaten übermittelt.</p>`;
+        }
+    </script>
+
+</body>
+</html>
