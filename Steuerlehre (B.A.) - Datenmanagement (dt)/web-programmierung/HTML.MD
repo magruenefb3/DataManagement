@@ -1,5 +1,9 @@
 # Web-Programmierug
 
+Hinweis: Die Erstellung in Formularen funktioniert in Google Apps Script nicht. Hintergrund ist, dass die Webanwendung innerhalb eines bestimmten Kontextes gerendert wird. Eine Alternative wäre hier, eine dynamische HTML-Seite, die auch die Formulardaten verarbeitet und dann das Ergebnis anzeigt. Die Programmierung ist aufwändiger. 
+
+Im folgenden Text ist daher eine einfache Verarbeitung von Formularen dargestellt. Das Verständnis ist notwendig, um bspw. Formulare in selbst erstellten Menüs eines Google Sheets zu verstehen.  
+
 ## Links
 
 * HTML und CSS: [SELFHTML](https://wiki.selfhtml.org/wiki/Einstieg_in_HTML/Erste_Schritte)
