@@ -37,7 +37,7 @@ function doGet() {
   * Entity-Relationship-Modell (nach Chen)
     * Entities
     * Relationships
-    * Kardinalitäten --> (1,*), (0,*), (1,1), (0,1) Kardina
+    * Kardinalitäten --> (1,`*`), (0,`*`), (1,1), (0,1) Kardinalitäten
   * Wo gehören die Verweise / Referenzen hin?
   * Was ist das Ziel der Datenmodellierung? Keine NULL-Werte (sinngem. leere Felder), Vermeidung redundanter Einträge
 
