@@ -18,6 +18,12 @@
 1. Datenmodell für Kindergarten zuende erstellen  
 2. Eine HTML-Seite erstellen in einem beliebigen Editor;   * Die Seite soll eine Überschrift erster Ordnung mit der Beschriftung "Hallo Welt" und einen Paragraphen mit einem beliebigen Text enthalten. Erstellen Sie die Seite in einem beliebigen Editor Ihrer Wahl.
 
+_Ziele_:
+
+1. Sie kennen den groben Aufbau von Datenbanksystemen (3-Schicht-Modell)
+2. Sie verstehen, wie eine Datenbanktabelle aufgebaut ist (Datentypen, Spaltenüberschriften, IDs)
+3. Sie wissen, dass in Ihrem Arbeitsumfeld im wesentlichen strukturierte Daten verarbeitet werden.  
+
 ## **LE: 22.04.2025**: Website-Grundlagen (Frontend) und konzeptionelle Datenmodellierung (ER-Modell)
 
 Ausfall des WLANs!!!
@@ -37,39 +43,50 @@ function doGet() {
   * Entity-Relationship-Modell (nach Chen)
     * Entities
     * Relationships
-    * Kardinalitäten --> (1,`*`), (0,`*`), (1,1), (0,1) Kardinalitäten
+    * Kardinalitäten --> ```(1,*), (0,*), (1,1), (0,1)``` Kardinalitäten
   * Wo gehören die Verweise / Referenzen hin?
   * Was ist das Ziel der Datenmodellierung? Keine NULL-Werte (sinngem. leere Felder), Vermeidung redundanter Einträge
 
-## **LE: 29.04.2025**: Datenhaltung (Backend)
+_Ziele_:
+
+1. Sie kennen die Grundzüge der Datenmodellierung und haben die Modellierung anhand eines Beispiels (Kindergarten) ausprobiert.
+2. Sie haben eine HTML-Datei erstellt und wissen, dass HTML das Dokumentformat für die Darstellung von Webseiten ist. 
+3. Sie können CSS verwenden, um Formatänderungen an einem HTML-Dokument vorzunehmen bzw. Formate zu definieren.
+4. Sie haben eine erste einfache HTML-Seite im Google Workspace gehostet.
+
+## **LE: 29.04.2025**: Programmierung (JavaScript, HTML) und Datenhaltung (Backend)
+
+* Backend: JavaScript und die Google-Variante Apps Script
+  * Funktionen, Schleifen, Kontrollstrukturen, Arrays
+  * Definition und Geltungsbereich von Variablen mit const und let
+  * Verwendung des Apps Scripts-Editors. Hinweis: zur Ausgabe von Werten z.B. die log-Funktion `Logger.log(wert);` verwenden
 
 * Frontend: Gestaltung von Web-Formularen als Eingabemasken für eine Anwendung
+  * Verwendung von KI und eines einfachen Editors zur lokalen Implementierung eines Formulars
   * HTML-Formulare: [Link zu HTML-Seminar](https://www.html-seminar.de/formulare.htm)
-  * Aufgabe: Erstellen Sie in HTML ein Formular, in das Sie einen Vor- und Nachnamen, eine Matrikelnummer und eine Mailadresse eingeben können.  
-  * Google Forms: an ein Sheet gebundenes Formular und ungebundenes Formular
-  * Aufgabe: Erstellen Sie das Formular aus der vorherigen Aufgabe mit Google Forms: [YouTube-Video](https://youtu.be/5K4le-zJhfQ?si=L_brYyiURWke0JPu)
+  * Aufgabe: Erstellen Sie in HTML ein Formular, in das Sie einen Vor- und Nachnamen, eine Matrikelnummer und eine Mailadresse eingeben können.  Auf einer weiteren HTML-Seite sollen die Eingabedaten angezeigt werden.
 
-* Backend: Apps Script (Google), JavaScript  
-  
-* Vorstellung des Anwendungsfalls - **Professoren-Informationssystem**  
+* Sehr kurz: Vorstellung des Anwendungsfalls - **Professoren-Informationssystem** <br> Sie finden eine ausführliche Beschreibung unter [Link zur Spezifikation](https://github.com/magruenefb3/prof-IS)
 * Link zum Spreadsheet (nicht normalisiert) [Link](https://docs.google.com/spreadsheets/d/14UXLHS_SVjxtBZFRmOzRuB5h-hTDZAMputGTWFoClPc/edit?usp=drive_link)  
   
+* Datenmodellierung des Professoren-Informationssystems in Form eines ER-Modells
+  * Entities, Beziehungen, Kardinalitäten (in der vereinfachten Chen-Notation)
 
-* Für Studierende mit **wenig IT-Erfahrung (BASIC)**:  
-  * Google Sheets und Apps Script: Strukturierung von Tabellen (Themen, Studierende, Termine etc.)  
-  * Apps Script - Grundlagen von JavaScript und Apps Script; Lesen und Schreiben in Google Sheets
-  * Einfache Funktionen in Apps Script entwickeln.
+_Ziele_:  
 
-## **LE: 06.05.2025**: Interaktion zwischen Frontend und Backend  
+1. Sie können jetzt einfache Programme mit JavaScript erstellen und wissen, wo Sie weitere Informationen erhalten.  
+2. Sie haben die Grundzüge der Datenmodellierung wiederholt.
+3. Sie haben Google Sheets und die Apps Scripts-Entwicklungsumgebung kennengelernt.
 
-* **BASIC (Google Sheets & Apps Script):**
+## **LE: 06.05.2025**: Datenmodellierung, Interaktion zwischen Frontend und Backend  
+
+* Erstellung des Datenmodells für die Anwendung
+* Konzepte von Apps Script: Spreadsheet, Trigger, gebundene Events (onOpen etc.)
+* Erzeugung von Menüstrukturen (auf der rechten Seite und in den Menüs eines Sheets)
+* Einfügen von Datensätzen mittels Menüs in die Sheets eines Spreadsheets
   * Verwendung von HTML-Formularen, um Daten an das Google Apps Script zu senden.
   * Apps Script-Funktionen entwickeln, um Daten aus dem Formular entgegenzunehmen und in Google Sheets zu speichern.
-  * Anzeigen von Daten aus Google Sheets auf einer Webseite (grundlegende Ausgabe).
-* **ADVANCED (Supabase):**
-  * Verwendung von JavaScript, um Daten aus dem HTML-Formular an das Backend der BaaS-Plattform zu senden.
-  * Grundlagen der Interaktion mit der BaaS-Datenbank über JavaScript (z.B. `fetch` API oder spezifische Client-Bibliotheken).
-  * Anzeigen von Daten aus der BaaS-Datenbank auf der Webseite (grundlegende Ausgabe).
+* Eventuell: Anzeigen von Daten aus Google Sheets auf einer Webseite (grundlegende Ausgabe).
 
 ## **LE: 13.05.2025**: Datenmodellierung für das Professoreninformationssystem und Vergabe der Präsentationsthemen
 
