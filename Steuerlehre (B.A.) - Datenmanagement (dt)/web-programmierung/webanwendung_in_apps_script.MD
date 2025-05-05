@@ -1,4 +1,4 @@
-# Formulare in Google Apps Script erstellen
+# Single-Page-Webanwendung - Formulare in Google Apps Script erstellen
 
 Hinweis: Dieser Ratgeber wurde erstellt mit Gemini!
 

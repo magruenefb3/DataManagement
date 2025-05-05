@@ -1,17 +1,5 @@
 # Spezielle Funktionen in Apps Script
 
-## eingebaute Objekte
-
-Date
-
-## Math
-
-Methoden: Math
-Aufrunden: Math.ceil (a);
-Abrunden: Math.floor (a);
-
-Integer von 0 bis 9 generieren:
-Math.floor(Math.randon()*10);
 
 ## Objekt in String konvertieren
 
