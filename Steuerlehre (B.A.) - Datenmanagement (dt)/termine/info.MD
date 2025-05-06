@@ -86,19 +86,27 @@ Erstellen Sie das Datemodell für das Professoren-IS in Anlehnung an das Tafelbi
 
 * Review der Datenmodelle für die Anwendung / Data Catalog -- Kritik der Data Catalogs der SIM-Studierenden:
 [Link zur Übersichtsseite - Data Catalogs aus Studiengang SIM](../../Strat.%20Inform%20Mgmt%20(M.Sc.)%20-%20Datenintegration%20(dt)/datenmodelle/data_catalogs.MD)
+* Definition eines **Data Catalogs** für die Datenbank - Identifizierung der relevanten Daten für das System: Professoren, Studierende, Themenvorschläge, Bewerbungen, Termine.
+* Wiederholung: Beziehungstypen 1:N, M:N --> wo befinden sich die Fremdschlüssel / Referenzen?
+* Freiwillig: Installation von MySQL, Erzeugung eines ER-Diagramms in der Workbench, Überführung des ERDs in eine Datenbank
 
-* Konzepte von Apps Script: Spreadsheet, Trigger, gebundene Events (onOpen etc.)
+Link zur heutigen Übung: [Menüs erzeugen in Google Spreadsheet](../tools_and_technology/Google%20Apps%20Script/menues_erzeugen_in_spreadsheet.MD)  
+
+* Konzept von Apps Script: Spreadsheet, gebundenes Event (onOpen-Funktion)  
 * Erzeugung von Menüstrukturen (auf der rechten Seite und in den Menüs eines Sheets)
 * Einfügen von Datensätzen mittels Menüs in die Sheets eines Spreadsheets
   * Verwendung von HTML-Formularen, um Daten an das Google Spreadsheet zu senden.
   * Apps Script-Funktionen, um Daten aus dem Formular entgegenzunehmen und in Google Sheets zu speichern.
 
-_Eigenarbeit_: Erstellen Sie eine Funktion, die prüft, ob eine Matrikelnummer bereits in den Studierendedaten oder Daten der Arbeiten enthalten ist. Falls ja, soll im Formular die Speicherung verweigert werden, bis bestätigt wird, dass der Eintrag vorgenommen werden soll.  
+### Hausaufgabe  
 
-## **LE: 13.05.2025**: Datenmodellierung für das Professoreninformationssystem und Vergabe der Präsentationsthemen
+_Eigenarbeit_: Vervollständigen Sie die letzte Anwendung, indem Sie Menüs für weitere Formular-Elemente der profIS-Anwendung hinzufügen, z.B. zur Erfassung der Prüfenden, der Studiengänge usw.
+
+_Eigenarbeit für Profis (freiwillig)_: Erstellen Sie eine Funktion, die prüft, ob eine Matrikelnummer bereits in den Studierendedaten oder Daten der Arbeiten enthalten ist. Falls ja, soll im Formular die Speicherung verweigert werden, bis bestätigt wird, dass der Eintrag vorgenommen werden soll.  
+
+## **LE: 13.05.2025**: Datenmodellierung letzter Teil und Vergabe der Präsentationsthemen
 
 * Überblick über die Präsentationsthemen und Zulosung der Themen  
-* Definition eines **Data Catalogs** für die Datenbank - Identifizierung der relevanten Daten für das System: Professoren, Studierende, Themenvorschläge, Bewerbungen, Termine.
 * Erstellung eines einfachen Datenmodells: Konzeptuelle Datenmodellierung  mit Entitäten und Beziehungen
 * Umsetzung des **Datenmodell**s in die Struktur der gewählten "Datenbank" (Google Sheets Tabellen oder BaaS Collections/Tabellen) und Verfeinerung des Data Catalogs.
 
