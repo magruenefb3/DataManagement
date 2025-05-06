@@ -90,10 +90,10 @@ Erstellen Sie das Datemodell für das Professoren-IS in Anlehnung an das Tafelbi
 * Konzepte von Apps Script: Spreadsheet, Trigger, gebundene Events (onOpen etc.)
 * Erzeugung von Menüstrukturen (auf der rechten Seite und in den Menüs eines Sheets)
 * Einfügen von Datensätzen mittels Menüs in die Sheets eines Spreadsheets
-  * Verwendung von HTML-Formularen, um Daten an das Google Apps Script zu senden.
-  * Apps Script-Funktionen entwickeln, um Daten aus dem Formular entgegenzunehmen und in Google Sheets zu speichern.
+  * Verwendung von HTML-Formularen, um Daten an das Google Spreadsheet zu senden.
+  * Apps Script-Funktionen, um Daten aus dem Formular entgegenzunehmen und in Google Sheets zu speichern.
 
-Eigenarbeit: Erstellen Sie eine Funktion, die prüft, ob eine Matrikelnummer bereits enthalten ist in den Studierendedaten oder Daten der Arbeiten. Falls ja, soll im Formular die Speicherung verweigert werden, bis bestätigt wird, dass der Eintrag vorgenommen werden soll.  
+_Eigenarbeit_: Erstellen Sie eine Funktion, die prüft, ob eine Matrikelnummer bereits in den Studierendedaten oder Daten der Arbeiten enthalten ist. Falls ja, soll im Formular die Speicherung verweigert werden, bis bestätigt wird, dass der Eintrag vorgenommen werden soll.  
 
 ## **LE: 13.05.2025**: Datenmodellierung für das Professoreninformationssystem und Vergabe der Präsentationsthemen
 
