@@ -80,11 +80,11 @@ _Ziele_:
 
 ### Hausaufgabe
 
-Erstellen Sie das Datemodell für das Professoren-IS in Anlehnung an das Tafelbild der Vorlesung. Achten Sie darauf, dass trotz des "Aufbrechens" in mehrere Tabellen die Datensätze wieder rekonstruiert werden können. 
+Erstellen Sie das Datemodell für das Professoren-IS in Anlehnung an das Tafelbild der Vorlesung. Achten Sie darauf, dass trotz des "Aufbrechens" in mehrere Tabellen die Datensätze wieder rekonstruiert werden können.  
 
 ## **LE: 06.05.2025**: Datenmodellierung, Interaktion zwischen Frontend und Backend  
 
-* Erstellung des Datenmodells für die Anwendung / Data Catalog -- Kritik der Data Catalogs der SIM-Studierenden:
+* Review der Datenmodelle für die Anwendung / Data Catalog -- Kritik der Data Catalogs der SIM-Studierenden:
 [Link zur Übersichtsseite - Data Catalogs aus Studiengang SIM](../../Strat.%20Inform%20Mgmt%20(M.Sc.)%20-%20Datenintegration%20(dt)/datenmodelle/data_catalogs.MD)
 
 * Konzepte von Apps Script: Spreadsheet, Trigger, gebundene Events (onOpen etc.)
