@@ -10,17 +10,17 @@ Abgabe bis zum 10.06.2025, 23:59 Uhr
 
 | Uhrzeit | Thema | Studierende/r | Thema |
 |---|---|---| --- |
-| 08:30 - 08:45 | Datenmodelle - Normalisierung am Beispiel der Anwendung ProfIS | TBD | T1 |
+| 08:30 - 08:45 | Datenmodelle - Normalisierung (1., 2., 3. Normalform) am Beispiel der Anwendung ProfIS | TBD | T1 |
 | 08:45 - 09:00 | Aufbau von Webanwendungen - JavaScript Framworks (Darstellung eines Frameworks und dessen Vorteile) | TBD | T2 |
 | 09:00 - 09:15 | Datenmodellierung in der Krähenfußnotation (MySQL) - ein Datenmodell für die "Kindergarten"-Datebank | TBD | T3 |
-| 09:15 - 09:30 | JSON als Datenformat - Vor- und Nachteile | TBD | T4 |
+| 09:15 - 09:30 | JSON als Datenformat - Einsatzzwecke | TBD | T4 |
 | 09:30 - 09:45 | Datenvisualisierung in Google Workspace mit Hilfe von  | TBD | T5 |
-| 09:45 - 10:00 | TBD | TBD | T6 |
+| 09:45 - 10:00 | Erstellung einer MySQL-Datenbank für ProfIS und erste Abfragen in der Datenbank | TBD | T6 |
 | PAUSE | | | |
-| 10:15 - 10:30 | TBD | TBD | T7 |
-| 10:30 - 10:45 | TBD | TBD | T8 |
-| 10:45 - 11:00 | TBD | TBD | T9 |
-| 11:00 - 11:15 | TBD | TBD | T10 |
+| 10:15 - 10:30 | YAML als Datenformat - Einsatzzwecke | TBD | T7 |
+| 10:30 - 10:45 | Data Warehouse - das Sternschema als Datenmodell | TBD | T8 |
+| 10:45 - 11:00 | Data Warehouse - Extract Transform Load (ETL) | TBD | T9 |
+| 11:00 - 11:15 | Service Level Agreements als "Bindeglied" zwischen datenspeichernden Applikationen (was ist das, was sollte darin enthalten sein?)  | TBD | T10 |
 | 11:15 - 11:30 | TBD | TBD | T11 |
 
 ## Präsentationstermin am 01.07.2025

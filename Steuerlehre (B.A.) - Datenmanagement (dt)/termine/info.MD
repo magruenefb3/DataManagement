@@ -84,13 +84,16 @@ Erstellen Sie das Datemodell für das Professoren-IS in Anlehnung an das Tafelbi
 
 ## **LE: 06.05.2025**: Datenmodellierung, Interaktion zwischen Frontend und Backend  
 
-* Erstellung des Datenmodells für die Anwendung
+* Erstellung des Datenmodells für die Anwendung / Data Catalog -- Kritik der Data Catalogs der SIM-Studierenden:
+[Link zur Übersichtsseite - Data Catalogs aus Studiengang SIM](../../Strat.%20Inform%20Mgmt%20(M.Sc.)%20-%20Datenintegration%20(dt)/datenmodelle/data_catalogs.MD)
+
 * Konzepte von Apps Script: Spreadsheet, Trigger, gebundene Events (onOpen etc.)
 * Erzeugung von Menüstrukturen (auf der rechten Seite und in den Menüs eines Sheets)
 * Einfügen von Datensätzen mittels Menüs in die Sheets eines Spreadsheets
   * Verwendung von HTML-Formularen, um Daten an das Google Apps Script zu senden.
   * Apps Script-Funktionen entwickeln, um Daten aus dem Formular entgegenzunehmen und in Google Sheets zu speichern.
-* Eventuell: Anzeigen von Daten aus Google Sheets auf einer Webseite (grundlegende Ausgabe).
+
+Eigenarbeit: Erstellen Sie eine Funktion, die prüft, ob eine Matrikelnummer bereits enthalten ist in den Studierendedaten oder Daten der Arbeiten. Falls ja, soll im Formular die Speicherung verweigert werden, bis bestätigt wird, dass der Eintrag vorgenommen werden soll.  
 
 ## **LE: 13.05.2025**: Datenmodellierung für das Professoreninformationssystem und Vergabe der Präsentationsthemen
 
