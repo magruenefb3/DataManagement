@@ -1,4 +1,6 @@
-# Data Dictionaries / Data Catalogs
+# Datenmodelle
+
+Hinweis: Sie finden das vom Dozenten entwickelte Datenmodell (MySQL) hier: [Link](prof-is.sql)
 
 Datenmodell von Crone:
 ![Data Model von Crone](./Crone_ERM_Modell%20.jpg)
