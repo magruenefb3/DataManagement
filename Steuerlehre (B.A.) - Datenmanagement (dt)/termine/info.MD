@@ -104,11 +104,12 @@ _Eigenarbeit_: Vervollständigen Sie die letzte Anwendung, indem Sie Menüs für
 
 _Eigenarbeit für Profis (freiwillig)_: Erstellen Sie eine Funktion, die prüft, ob eine Matrikelnummer bereits in den Studierendedaten oder Daten der Arbeiten enthalten ist. Falls ja, soll im Formular die Speicherung verweigert werden, bis bestätigt wird, dass der Eintrag vorgenommen werden soll.  
 
-## **LE: 13.05.2025**: Datenmodellierung letzter Teil und Vergabe der Präsentationsthemen
+## **LE: 13.05.2025**: Datenmodellierung letzter Teil / SQL und Vergabe der Präsentationsthemen
 
-* Überblick über die Präsentationsthemen und Zulosung der Themen  
-* Erstellung eines einfachen Datenmodells: Konzeptuelle Datenmodellierung  mit Entitäten und Beziehungen
-* Umsetzung des **Datenmodell**s in die Struktur der gewählten "Datenbank" (Google Sheets Tabellen oder BaaS Collections/Tabellen) und Verfeinerung des Data Catalogs.
+* Das Datenmodell als Google Spreadsheet (zum Herunterladen) und Erstellung eines Datenmodells in MySQL ggf. SQLite
+* SQL-Einführung anhand der Sakila-Datenbank + Installation MySQL (Mac und Windows)
+* **Überblick über die Präsentationsthemen und Zulosung der Themen**  
+
 
 ## **LE: 20.05.2025**: Erweiterung und gemeinsame Diskussion des Datenmodells / Puffer zum Aufholen bzw. Nacharbeiten
 
