@@ -99,9 +99,10 @@ Link zur heutigen Übung: [Menüs erzeugen in Google Spreadsheet](../tools_and_t
   * Apps Script-Funktionen, um Daten aus dem Formular entgegenzunehmen und in Google Sheets zu speichern.
 
 ### MySQL
+
 * Installation des MySQL-Datenbanksystems für technisch Interessierte
 
-### Hausaufgabe  
+### Hausaufgabe
 
 _Eigenarbeit_: Vervollständigen Sie die letzte Anwendung, indem Sie Menüs für weitere Formular-Elemente der profIS-Anwendung hinzufügen, z.B. zur Erfassung der Prüfenden, der Studiengänge usw.
 
@@ -109,9 +110,9 @@ _Eigenarbeit für Profis (freiwillig)_: Erstellen Sie eine Funktion, die prüft,
 
 ## **LE: 13.05.2025**: Datenmodellierung letzter Teil / SQL und Vergabe der Präsentationsthemen
 
-* Das Datenmodell als Google Spreadsheet (zum Herunterladen) und Erstellung eines Datenmodells in MySQL ggf. SQLite
+* Das Datenmodell als Google Spreadsheet [Link][Google Spreadsheet prof-IS normalisiert] und in MySQL
 * SQL-Einführung anhand der Sakila-Datenbank  
-* SQL in Google Apps Script --> Hinweise zur QUERY-Funktion
+* SQL in Google Apps Script --> Hinweise zur QUERY-Funktion [Link][def]
 
 ### Big Data als Eigenarbeit
 
@@ -162,3 +163,7 @@ _Eigenarbeit für Profis (freiwillig)_: Erstellen Sie eine Funktion, die prüft,
 ## **LE: 24.06.2025**: Präsentationen
 
 ## **LE: 01.07.2025**: Präsentationen
+
+
+[def]: ../tools_and_technology/Google%20Sheets/sql_in_sheets.MD
+[Google Spreadsheet prof-IS normalisiert]: https://docs.google.com/spreadsheets/d/1ZRkc8km-OlcLYPR5KCidMGzZAUMtYMVFbj8z98FHcr0/edit?gid=0#gid=0
