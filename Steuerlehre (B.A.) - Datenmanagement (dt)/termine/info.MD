@@ -98,6 +98,9 @@ Link zur heutigen Übung: [Menüs erzeugen in Google Spreadsheet](../tools_and_t
   * Verwendung von HTML-Formularen, um Daten an das Google Spreadsheet zu senden.
   * Apps Script-Funktionen, um Daten aus dem Formular entgegenzunehmen und in Google Sheets zu speichern.
 
+### MySQL
+* Installation des MySQL-Datenbanksystems für technisch Interessierte
+
 ### Hausaufgabe  
 
 _Eigenarbeit_: Vervollständigen Sie die letzte Anwendung, indem Sie Menüs für weitere Formular-Elemente der profIS-Anwendung hinzufügen, z.B. zur Erfassung der Prüfenden, der Studiengänge usw.
@@ -107,8 +110,17 @@ _Eigenarbeit für Profis (freiwillig)_: Erstellen Sie eine Funktion, die prüft,
 ## **LE: 13.05.2025**: Datenmodellierung letzter Teil / SQL und Vergabe der Präsentationsthemen
 
 * Das Datenmodell als Google Spreadsheet (zum Herunterladen) und Erstellung eines Datenmodells in MySQL ggf. SQLite
-* SQL-Einführung anhand der Sakila-Datenbank + Installation MySQL (Mac und Windows)
-* **Überblick über die Präsentationsthemen und Zulosung der Themen**  
+* SQL-Einführung anhand der Sakila-Datenbank  
+* SQL in Google Apps Script --> Hinweise zur QUERY-Funktion
+
+### Big Data als Eigenarbeit
+
+* Gruppe 1: Was ist/sind Big Data? Welche Vs?
+* Gruppe 2: Was ist Apache Hadoop? Wie funktioniert MapReduce (Beispiel)?
+* Gruppe 3: Was ist Apache Spark? Für welche Anwendungsfälle kann ich Spark einsetzen, z.B. in der Steuerlehre?
+* Gruppe 4: Was bedeutet NoSQL? Beschreiben Sie zwei Systeme. Worin unterscheiden sich die Systeme von "klassischen" relationalen (tabellarischen) Datenbanken?
+
+### **Überblick über die Präsentationsthemen und Zulosung der Themen**  
 
 
 ## **LE: 20.05.2025**: Erweiterung und gemeinsame Diskussion des Datenmodells / Puffer zum Aufholen bzw. Nacharbeiten
