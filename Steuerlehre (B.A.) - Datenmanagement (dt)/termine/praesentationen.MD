@@ -8,7 +8,7 @@ Für einen ersten Einblick in Ihr Thema können Sie die Quellen in der [Linklist
 
 Abgabe bis zum 10.06.2025, 23:59 Uhr
 
-## Präsentationstermine am 24.06.2025
+## Präsentationstermine am 17.06.2025
 
 | Uhrzeit | Thema | Studierende/r | Thema |
 |---|---|---| --- |
@@ -26,8 +26,7 @@ Abgabe bis zum 10.06.2025, 23:59 Uhr
 | 11:15 - 11:30 | Google Apps Script – Automatisierung in Google Sheets (Sie zeigen, wie mit einfachen Google Apps Scripts Aufgaben in Google Sheets automatisiert werden können, z.B. das automatische Versenden von Erinnerungs-E-Mails bei Fristüberschreitungen in ProfIS. Gehen Sie insbesondere auch auf Trigger ein.)           | TBD           | T11   |
 | 11:30 - 11:45 | Zugriffskontrolle und Rechteverwaltung in Google Workspace (Sie erläutern, wie die Rechtevergabe in Google Sheets funktioniert und wie sie genutzt werden kann, um sensible Steuerdaten vor unbefugtem Zugriff zu schützen)   | TBD  | T12   |
 
-
-## Präsentationstermine am 01.07.2025
+## Präsentationstermine am 24.06.2025
 
 | Uhrzeit | Thema | Studierende/r | Thema |
 |---|---|---| --- |

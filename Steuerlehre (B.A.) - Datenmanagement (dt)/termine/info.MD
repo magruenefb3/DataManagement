@@ -111,6 +111,7 @@ _Eigenarbeit für Profis (freiwillig)_: Erstellen Sie eine Funktion, die prüft,
 ## **LE: 13.05.2025**: Datenmodellierung letzter Teil / SQL und Vergabe der Präsentationsthemen
 
 * Das Datenmodell als Google Spreadsheet [Link][Google Spreadsheet prof-IS normalisiert] und in MySQL
+* Das Datenmodell als MySQL-Datenbank [Link](https://github.com/magruenefb3/prof-IS/tree/main/3_Testdatenbanken)
 * SQL-Einführung anhand der Sakila-Datenbank  
 * SQL in Google Apps Script --> Hinweise zur QUERY-Funktion [Link][def]
 
