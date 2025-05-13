@@ -6,7 +6,6 @@ Die `QUERY`-Funktion in Google Sheets ermöglicht es, Daten aus einem Tabellenbe
 
 `=QUERY(Daten; Abfrage; [Kopfzeilen])`
 
-
 - **Daten**: Der Bereich, der die zu analysierenden Daten enthält (z. B. `A1:C100`).
 - **Abfrage**: Ein Textstring, der die Abfrage in SQL-ähnlicher Syntax beschreibt (z. B. `"SELECT A, B WHERE C > 10"`).
 - **Kopfzeilen** (optional): Die Anzahl der Kopfzeilen im Datenbereich (z. B. `1` für eine Kopfzeile). Standard ist 0.

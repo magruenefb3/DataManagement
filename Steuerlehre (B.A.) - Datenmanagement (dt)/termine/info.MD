@@ -67,7 +67,7 @@ _Ziele_:
   * Aufgabe: Erstellen Sie in HTML ein Formular, in das Sie einen Vor- und Nachnamen, eine Matrikelnummer und eine Mailadresse eingeben können.  Auf einer weiteren HTML-Seite sollen die Eingabedaten angezeigt werden.
 
 * Sehr kurz: Vorstellung des Anwendungsfalls - **Professoren-Informationssystem** <br> Sie finden eine ausführliche Beschreibung unter [Link zur Spezifikation](https://github.com/magruenefb3/prof-IS)
-* Link zum Spreadsheet (nicht normalisiert) [Link](https://docs.google.com/spreadsheets/d/14UXLHS_SVjxtBZFRmOzRuB5h-hTDZAMputGTWFoClPc/edit?usp=drive_link)  
+* Link zum Spreadsheet (nicht normalisiert) [Link](https://docs.google.com/spreadsheets/d/14UXLHS_SVjxtBZFRmOzRuB5h-hTDZAMputGTWFoClPc/copy)  
   
 * Datenmodellierung des Professoren-Informationssystems in Form eines ER-Modells
   * Entities, Beziehungen, Kardinalitäten (in der vereinfachten Chen-Notation)
@@ -123,7 +123,6 @@ _Eigenarbeit für Profis (freiwillig)_: Erstellen Sie eine Funktion, die prüft,
 
 ### **Überblick über die Präsentationsthemen und Zulosung der Themen**  
 
-
 ## **LE: 20.05.2025**: Erweiterung und gemeinsame Diskussion des Datenmodells / Puffer zum Aufholen bzw. Nacharbeiten
 
 * Datenmodell erweitern und dokumentieren:
@@ -166,4 +165,4 @@ _Eigenarbeit für Profis (freiwillig)_: Erstellen Sie eine Funktion, die prüft,
 
 
 [def]: ../tools_and_technology/Google%20Sheets/sql_in_sheets.MD
-[Google Spreadsheet prof-IS normalisiert]: https://docs.google.com/spreadsheets/d/1ZRkc8km-OlcLYPR5KCidMGzZAUMtYMVFbj8z98FHcr0/edit?gid=0#gid=0
+[Google Spreadsheet prof-IS normalisiert]: https://docs.google.com/spreadsheets/d/1ZRkc8km-OlcLYPR5KCidMGzZAUMtYMVFbj8z98FHcr0/copy
