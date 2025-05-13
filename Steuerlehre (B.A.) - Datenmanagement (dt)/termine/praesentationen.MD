@@ -14,7 +14,7 @@ Abgabe bis zum 10.06.2025, 23:59 Uhr
 |---|---|---| --- |
 | 08:15 - 08:30 | Datenmodelle - Normalisierung (1., 2., 3. Normalform) am Beispiel der Anwendung ProfIS (Sie erklären, wie das ursprünglich schlechte Datenmodell der Datenbank durch die Anwendung von Normalisierung verbessert werden konnte)| Gizem Sayan | T1 |
 | 08:30 - 08:45 | Aufbau von Webanwendungen - JavaScript Framworks (Darstellung eines Frameworks und dessen Vorteile für die Webentwicklung) | Lukas Ostermeier | T2 |
-| 08:45 - 09:00 | Datenmodellierung in der Krähenfußnotation (MySQL) - ein Datenmodell für die "Kindergarten"-Datebank (Sie entwickeln ein Datenmodell in der MySQL für die Kindergarten-DB und stellen dieses vor)| Alena Saric | T3 |
+| 08:45 - 09:00 |YAML als Datenformat - Einsatzzwecke (Sie beschreiben die Konzepte der Sprache YAML und geben ein Beispiel, wie Daten des profIS mittels YAML dargestellt werden können) | Alena Saric | T7 |
 | 09:00 - 09:15 | JSON als Datenformat - Einsatzzwecke (Sie beschreiben anhand von Beispielen die Elemente der Sprache JSON und nennen Einsatzzwecke)| Pascal Herold | T4 |
 | 09:15 - 09:30 | Datenvisualisierung in Google Workspace (Sie erstellen für das System profIS Visualisierungen mittels Produkten des Google Workspace)  | Marc Rui | T5 |
 | 09:30 - 09:45 | Abfragen gegen die  MySQL-Datenbank für ProfIS (Sie erstellen Abfragen für die MySQL-Datenbank, die die Anzahl der Studierenden pro Erstkorrektor pro Semester darstellen; denken Sie sich weitere Abfragen aus, die für die Datenvisualisierung verwendet werden könnten) | Timothy Philip Leach | T6 |
@@ -41,5 +41,5 @@ Abgabe bis zum 10.06.2025, 23:59 Uhr
 
 | Thema | Nr. |
 |---|---|
-|  YAML als Datenformat - Einsatzzwecke (Sie beschreiben die Konzepte der Sprache YAML und geben ein Beispiel, wie Daten des profIS mittels YAML dargestellt werden können) |  T7 |
+|   Datenmodellierung in der Krähenfußnotation (MySQL) - ein Datenmodell für die "Kindergarten"-Datebank (Sie entwickeln ein Datenmodell in der MySQL für die Kindergarten-DB und stellen dieses vor) |  T3 |
 | Google Apps Script – Automatisierung in Google Sheets (Sie zeigen, wie mit einfachen Google Apps Scripts Aufgaben in Google Sheets automatisiert werden können, z.B. das automatische Versenden von Erinnerungs-E-Mails bei Fristüberschreitungen in ProfIS. Gehen Sie insbesondere auch auf Trigger ein.)           | T11   |
