@@ -14,10 +14,10 @@ Abgabe bis zum 10.06.2025, 23:59 Uhr
 |---|---|---| --- |
 | 08:15 - 08:30 | Datenmodelle - Normalisierung (1., 2., 3. Normalform) am Beispiel der Anwendung ProfIS (Sie erklären, wie das ursprünglich schlechte Datenmodell der Datenbank durch die Anwendung von Normalisierung verbessert werden konnte)| Gizem Sayan | T1 |
 | 08:30 - 08:45 | Aufbau von Webanwendungen - JavaScript Framworks (Darstellung eines Frameworks und dessen Vorteile für die Webentwicklung) | Lukas Ostermeier | T2 |
-| 08:45 - 09:00 | Datenmodellierung in der Krähenfußnotation (MySQL) - ein Datenmodell für die "Kindergarten"-Datebank (Sie entwickeln ein Datenmodell in der MySQL für die Kindergarten-DB und stellen dieses vor)| TBD | T3 |
+| 08:45 - 09:00 | Datenmodellierung in der Krähenfußnotation (MySQL) - ein Datenmodell für die "Kindergarten"-Datebank (Sie entwickeln ein Datenmodell in der MySQL für die Kindergarten-DB und stellen dieses vor)| Alena Saric | T3 |
 | 09:00 - 09:15 | JSON als Datenformat - Einsatzzwecke (Sie beschreiben anhand von Beispielen die Elemente der Sprache JSON und nennen Einsatzzwecke)| Pascal Herold | T4 |
 | 09:15 - 09:30 | Datenvisualisierung in Google Workspace (Sie erstellen für das System profIS Visualisierungen mittels Produkten des Google Workspace)  | Marc Rui | T5 |
-| 09:30 - 09:45 | Abfragen gegen die  MySQL-Datenbank für ProfIS (Sie erstellen Abfragen für die MySQL-Datenbank, die die Anzahl der Studierenden pro Erstkorrektor pro Semester darstellen; denken Sie sich weitere Abfragen aus, die für die Datenvisualisierung verwendet werden könnten) | TBD | T6 |
+| 09:30 - 09:45 | Abfragen gegen die  MySQL-Datenbank für ProfIS (Sie erstellen Abfragen für die MySQL-Datenbank, die die Anzahl der Studierenden pro Erstkorrektor pro Semester darstellen; denken Sie sich weitere Abfragen aus, die für die Datenvisualisierung verwendet werden könnten) | Timothy Philip Leach | T6 |
 | PAUSE 30 Min. | | | |
 | 10:15 - 10:30 | Data Warehouse - das Sternschema als Datenmodell (Sie geben einen kurzen Überblick über die Ziele von Data Warehouses und erklären an einem Beispiel, was ein Sternschema ist) | Lukas Bernhard | T8 |
 | 10:30 - 10:45 | Data Warehouse - Extract Transform Load (ETL) (Sie erklären den Begriff und schildern ein Beispiel eines ETL-Prozesses, der JSON-Daten verarbeitet und diese in das profIS lädt) | Nur Naimi | T9 |
