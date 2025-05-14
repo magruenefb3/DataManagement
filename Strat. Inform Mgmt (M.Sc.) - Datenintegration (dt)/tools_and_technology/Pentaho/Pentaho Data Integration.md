@@ -1,43 +1,55 @@
 # Installation Pentaho Data Integration
 
-Die Installationsschritte sind auch unter folgendem Link zu finden: https://www.hitachivantara.com/en-us/pdf/implementation-guide/three-steps-to-install-pentaho-data-integration-ce.pdf
+## Herunterladen der Anwendungspakete
+
+Versionsnummer von Pentaho Data Integration: 10.2.
+Die freie Version der Software entspricht der Developer Version und ist nach Registrierung unter der Website herunterzuladen.  
+
+[https://pentaho.com/products/pentaho-data-integration/](https://pentaho.com/products/pentaho-data-integration/)
+
+Dort auf "Licensing Options" klicken und die Developer Version herunterladen:
+
+![alt text](image-6.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+
+Bitte laden Sie die beiden folgenden Pakete herunter:
+
+* Basis-Installation: `pdi-ce-10.2.0.0-222`
+* Hadoop-Add-On: `pdi-ce-10.2.0.0-222-hadoop-addon`
 
 Zur Installation der Pentaho Data Integration Suite sind folgende Schritte notwendig:
-1) Installation von Java, falls noch nicht auf dem PC installiert. Es darf **maximal Version 11 des JDK** installiert werden!
-2) Installation von Pentaho, hier Version 9.4
 
-## Java-Installation prüfen
+## Installation von Java, falls noch nicht auf dem PC installiert.  
 
-Öffnen Sie das Command-Fenster unter Windows und prüfen Sie Ihre Java-Version mit dem folgenden Befehl:
+Hinweis: für die Vorversion (Pentaho 9.4) darf **maximal Version 11 des JDK** installiert werden! Bei der Version 10.2. gilt diese Einschränkung nicht mehr.  
 
+**Java-Installation prüfen:** Öffnen Sie das Command-Fenster unter Windows und prüfen Sie Ihre Java-Version mit dem folgenden Befehl:
 `java --version`
 
-Falls Ihre Java-Version sehr veraltet ist, laden Sie bitte eine aktuelle Version herunter und installieren Sie diese.
+Eventuell müssen Sie die JAVA_HOME Umgebungsvariable noch auf die aktuelle Java-Version setzen. Diese finden Sie in den Windows-Umgebungsvariablen: <br/>
+<img src="image-7.png" alt="umgebungsvariablen" style="width:400px;"/>
 
-## Laden Sie sich die Pentaho Data Integration Community Edition herunter
+## Installation von Pentaho Base
 
-* Die Pentaho-Software finden Sie unter: [Link](https://sourceforge.net/projects/pentaho/)
-* Der Link verweist auf die Website von Hitachi.
-Bitte achten Sie darauf, die Community-Edition herunterzuladen.
-* Nach dem Download der Zip-Datei, kopieren Sie diese bitte in einen Ordner, auf den Sie Zugriff haben. Entzippen Sie anschließend die Datei. 
-  * Es bietet sich an, die Datei im Benutzerprofil zu extrahieren.  
-  * Die grafische Benutzeroberfläche finden Sie nun als Windows-Batch-Datei unter dem Namen **spoon.exe**
-  * Erstellen Sie sich einen Link zu dieser Datei auf Ihrem Desktop. Dazu Rechtsklick --> An Desktop senden  
-  * Sie können im Anschluss das Icon ändern (Rechtsklick) und z.B. das Icon aus dem Installationspfad verwenden.
-Falls Spoon nicht ausgeführt wird, öffnen Sie bitte SpoonDebug, um den Fehler zu identifizieren.
+* Kopieren Sie die Zip-Datei der Basis-Installation: `pdi-ce-10.2.0.0-222` in einen Ordner, auf den Sie Zugriff haben. Entzippen Sie anschließend die Datei.  
+* Es bietet sich an, die Datei im Benutzerprofil zu extrahieren.  
+* Die grafische Benutzeroberfläche können Sie nun mittels einer Windows-Batch-Datei mit dem Namen **spoon.exe** starten.
+* Erstellen Sie sich auch einen Link zu dieser Datei auf Ihrem Desktop. Dazu Rechtsklick --> An Desktop senden  
+* Sie können im Anschluss das Icon ändern (Rechtsklick --> Eigenschaften) und z.B. das Icon aus dem Installationspfad verwenden --><img src="spoon.ico" alt="drawing" style="width:20px;"/>
+
+Falls Spoon nicht ausgeführt wird, öffnen Sie `SpoonDebug`, um den Fehler zu identifizieren.
 
 Pentaho sollte nun starten und nach einem Lade-Bildschirm die Anwendung anzeigen:
-![Image](image.png)
+<img src="image.png" alt="drawing" style="width:500px;"/>
 
-## Marketplace nachinstallieren
+## Pentaho Marketplace nachinstallieren
 
-Der Marketplace ist leider nicht mehr in der Community Edition enthalten. Er kann aber über das Hadoop-Plugin nachinstalliert werden.  
-Die Installationsanweisung befindet sich hier:  
+Der Marketplace ist nicht mehr in der Developer Edition enthalten. Er kann aber über das Hadoop-Plugin nachinstalliert werden. Das Plugin haben Sie oben bereits heruntergeladen.
+Die Installationsanweisung befindet sich [hier](https://www.hitachivantara.com/en-us/pdf/implementation-guide/three-steps-to-install-pentaho-data-integration-ce.pdf)  
 
-* [Link zur Installationsanleitung](https://www.hitachivantara.com/en-us/pdf/implementation-guide/three-steps-to-install-pentaho-data-integration-ce.pdf)  
-* Sie müssen unbedingt das erste Paket, wie in der folgenden Abbildung dargestellt, herunter laden.
+Über den Marketplace können Erweiterungen geladen werden.  
 
-![Image](image-1.png)
+## MySQL-Plugin
 
-Dieses müssen Sie anschließend entpacken und die Inhalte aus "dataintegration" nach "dataintegration" in ihrem Installationspfad der PDI kopieren.
-
+Um auf MySQL zugreifen zu können, war in der Version 9.4 noch die Installation eines Plugins notwendig. Sollte die MySQL-Integration nicht funktionieren, laden Sie den entsprechenden J-Connector und suchen Sie im Internet nach einer Installationsanleitung.  
