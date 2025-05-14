@@ -38,12 +38,13 @@
   * Erstellung von Formularen in Google Apps Script / Google Forms sowie Speichern der Formulardaten (Vor- und Nachname, Matrikelnummer, Mails). 
   * Forms als Video: [YouTube-Video](https://youtu.be/5K4le-zJhfQ?si=L_brYyiURWke0JPu)
 
-## **LE: 01.05.2025**: Datenhaltung
+## **LE: 01.05.2025**: Datenhaltung  
+
 * Feiertag
 * Aufgabe: Datenmodell eigenständig weiterentwickeln. Data Catalog aufsetzen
 
+## **LE: 08.05.2025**: Datenhaltung (Backend) und Formulare  
 
-## **LE: 08.05.2025**: Datenhaltung (Backend) und Formulare
 * Besprechung der Datenmodelle und Hinweise zur Überarbeitung
 * Strukturierung der Tabellen (Themen, Studierende, Termine etc.)  
 * Apps Script - Erzeugen von Menüstrukturen (Sidebar und Menü in SpreadSheetApp)
@@ -51,11 +52,10 @@
 * Vorlesung: Foliensatz 2 und 3a bis Folie 10 - Integrationsarchitekturen (3-Schicht, 4-Schicht ....), DWH (materialisierte Integration) versus virtuelle Integration (on-the-fly), SOA; Probleme, die eine Integration behindern (Distribution, Autonomie, Heterogenität)
 * Hausaufgabe: Datemodell überarbeiten; Formulare zur Datenerfassung in Google Spreadsheet einbauen; Kür: Prüfung, ob eingegebene Datensätze bereits existieren
 
-## **LE: 15.05.2025**: Daten laden (ETL)  
-* Apps Script - Daten aus CSV-Dateien und JSON-Dokumenten laden, z.B. über FilePicker und ggf. bereinigen
 
 
-## **LE: 22.05.2025**: Datenmodellierung für das Professoreninformationssystem und Vergabe der Präsentationsthemen
+## **LE: 22.05.2025**: Datenmodellierung für das Professoreninformationssystem und Vergabe der Präsentationsthemen  
+
 * Überarbeitung des **Data Catalogs/ Data Dictionaries** für die Datenbank  
 * Identifizierung der relevanten Daten für das System: Professoren, Studierende, Themenvorschläge, Bewerbungen, Termine.
 * Umsetzung des **Datenmodell**s in die Struktur der gewählten "Datenbank" (Google Sheets Tabellen oder RDBS) und Verfeinerung des Data Catalogs.
