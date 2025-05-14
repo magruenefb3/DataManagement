@@ -53,3 +53,5 @@ Die Installationsanweisung befindet sich [hier](https://www.hitachivantara.com/e
 ## MySQL-Plugin
 
 Um auf MySQL zugreifen zu können, war in der Version 9.4 noch die Installation eines Plugins notwendig. Sollte die MySQL-Integration nicht funktionieren, laden Sie den entsprechenden J-Connector und suchen Sie im Internet nach einer Installationsanleitung.  
+
+Alternativ können Sie auch die folgende (etwas veraltete) Datei öffnen: [MySQL-Installation](./Pentaho_MySQL_Treiber.md)
