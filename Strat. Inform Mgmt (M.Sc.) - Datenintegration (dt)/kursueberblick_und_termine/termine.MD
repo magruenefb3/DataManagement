@@ -1,12 +1,18 @@
 # SIM Termine
 
+* 03.07.2025
+* 26.06.2025
+* 12.06.2025
+* 05.06.2025 -- Eigenarbeit / Visualisierung
+* 22.05.2025 
+* [15.05.2025](2025-05-15.MD)
+* [08.05.2025](2025-05-08.MD)
+* [01.05.2025](2025-05-01.MD)
+* [24.04.2025](2025-04-24.MD)
+* [17.04.2025](2025-04-17.MD)
+* [10.04.2025](2025-04-10.MD)
 
-
-
-
-## **LE: 22.05.2025**: Datenmodellierung für das Professoreninformationssystem und Vergabe der Präsentationsthemen  
-
-
+Zu behandelnde Themen (werden den Terminen zugeordnet)
 
 ## **LE: x.x.2025**: Erweiterung und gemeinsame Diskussion des Datenmodells / Puffer zum Aufholen bzw. Nacharbeiten
 
@@ -20,15 +26,6 @@ Datenmodell erweitern und dokumentieren, z.B.
 * Semesterzuordnung,  
 * Anlage von Erst- und Zweitkorrektor nebst Adressen / Telefonnrn.,
 * Verrechnung von SWS für die Betreuung anhand Start- und Kolloquiumstermin der Arbeit...
-
-Erste Überlegungen zum **Datenimport**
-
-* Einführung in Pentaho
-
-## **LE: x.x.2025**: Überarbeitung der Anwendung / Daten laden mittels Skript
-
-Es werden JSON- und andere Formate geladen. Die Rohdaten erhalten Sie vom Dozenten. Ziel ist es, einen ETL-Prozess zu simulieren.  
-Die Rohdaten enthalten Fehler, die automatisiert korrigiert werden sollen. So steht in den Rohdaten bspw. SoSe 2024 statt 2024-1.  
 
 ## **LE: x.x.2025**: Überarbeitung der Anwendung / Daten laden mittels Skript (2)
 
