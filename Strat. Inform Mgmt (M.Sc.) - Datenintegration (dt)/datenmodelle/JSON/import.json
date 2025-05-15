@@ -1,0 +1,157 @@
+[
+  {
+    "arbeiten": [
+      {
+        "id_arbeit": 1001,
+        "matrikelnummer": 1234567895,
+        "id_studiengang": 40,
+        "titel": "KI-basierte Optimierung von Logistikprozessen",
+        "start_datum": "2025-03-01",
+        "abgabe_datum": "2025-06-30",
+        "ende_korrektur": null,
+        "kolloquium_datum": "2025-07-15",
+        "kolloquium_beginn_uhrzeit": "10:00:00",
+        "kolloquium_ende_uhrzeit": "11:30:00"
+      },
+      {
+        "id_arbeit": 1002,
+        "matrikelnummer": 9876543213,
+        "id_studiengang": 58,
+        "titel": "Nachhaltige Lieferketten in der Textilindustrie",
+        "start_datum": "2025-03-15",
+        "abgabe_datum": "2025-07-15",
+        "ende_korrektur": null,
+        "kolloquium_datum": "2025-07-30",
+        "kolloquium_beginn_uhrzeit": "14:00:00",
+        "kolloquium_ende_uhrzeit": "15:30:00"
+      },
+      {
+        "id_arbeit": 1003,
+        "matrikelnummer": 4567891235,
+        "id_studiengang": 68,
+        "titel": "Die Rolle von Social Media im Krisenmanagement",
+        "start_datum": "2025-04-01",
+        "abgabe_datum": "2025-08-01",
+        "ende_korrektur": null,
+        "kolloquium_datum": "2025-08-15",
+        "kolloquium_beginn_uhrzeit": "09:00:00",
+        "kolloquium_ende_uhrzeit": "10:30:00"
+      }
+    ]
+  },
+  {
+    "fachbereiche": [
+      {
+        "id_fachbereich": 5,
+        "name_fachbereich": "Angewandte Naturwissenschaften"
+      },
+      {
+        "id_fachbereich": 6,
+        "name_fachbereich": "Design und Medien"
+      }
+    ]
+  },
+  {
+    "noten": [
+      {
+        "id_arbeit": 1001,
+        "note_arbeit_referent": 1,
+        "note_arbeit_korreferent": 2,
+        "note_kolloquium_referent": 1,
+        "note_kolloquium_korreferent": 1,
+        "id_referent": 7,
+        "id_korreferent": 2
+      },
+      {
+        "id_arbeit": 1002,
+        "note_arbeit_referent": 2,
+        "note_arbeit_korreferent": 1,
+        "note_kolloquium_referent": 2,
+        "note_kolloquium_korreferent": 2,
+        "id_referent": 14,
+        "id_korreferent": 7
+      },
+      {
+        "id_arbeit": 1003,
+        "note_arbeit_referent": 1,
+        "note_arbeit_korreferent": 1,
+        "note_kolloquium_referent": null,
+        "note_kolloquium_korreferent": null,
+        "id_referent": 17,
+        "id_korreferent": 7
+      }
+    ]
+  },
+  {
+    "referenten": [
+      {
+        "id_referent": 29,
+        "anrede": "Herr",
+        "titel": "Prof. Dr.",
+        "vorname": "Johannes",
+        "nachname": "Keller",
+        "ist_extern_ja_nein": 0,
+        "telefon": "+49 69 79812345",
+        "mail": "johannes.keller@uni-frankfurt.de",
+        "adresse": "Theodor-W.-Adorno-Platz 1, 60323 Frankfurt am Main",
+        "kommentar": null
+      },
+      {
+        "id_referent": 30,
+        "anrede": "Frau",
+        "titel": "Dr.",
+        "vorname": "Sabine",
+        "nachname": "Schwarz",
+        "ist_extern_ja_nein": 1,
+        "telefon": "+49 611 9876543",
+        "mail": "sabine.schwarz@extern.de",
+        "adresse": "Rheinstr. 101, 65185 Wiesbaden",
+        "kommentar": "Expertin für Nachhaltigkeit"
+      }
+    ]
+  },
+  {
+    "studiengaenge": [
+      {
+        "id_studiengang": 80,
+        "id_fachbereich": 5,
+        "titel_nach_abschluss": "B.Sc. in Umweltwissenschaften",
+        "art_abschluss": "B.Sc."
+      },
+      {
+        "id_studiengang": 81,
+        "id_fachbereich": 6,
+        "titel_nach_abschluss": "B.A. in Kommunikationsdesign",
+        "art_abschluss": "B.A."
+      }
+    ]
+  },
+  {
+    "studierende": [
+      {
+        "matrikelnummer": 1234567895,
+        "vorname": "Anna",
+        "nachname": "Meier",
+        "mail": "anna.meier@stud.hs-rm.de",
+        "scheinfrei_ja_nein": 1,
+        "id_studiengang": 40
+      },
+      {
+        "matrikelnummer": 9876543213,
+        "vorname": "Lukas",
+        "nachname": "Schmidt",
+        "mail": "lukas.schmidt@stud.hs-rm.de",
+        "scheinfrei_ja_nein": 0,
+        "id_studiengang": 58
+      },
+      {
+        "matrikelnummer": 4567891235,
+        "vorname": "Sophie",
+        "nachname": "Wagner",
+        "mail": "sophie.wagner@stud.hs-rm.de",
+        "scheinfrei_ja_nein": 1,
+        "id_studiengang": 68
+      }
+    ]
+  }
+]
