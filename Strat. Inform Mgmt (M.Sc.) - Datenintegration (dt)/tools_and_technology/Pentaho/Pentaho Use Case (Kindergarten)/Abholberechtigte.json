@@ -1,0 +1,125 @@
+[
+  {
+    "idAbholberechtigtePerson": 1,
+    "Anrede": "Frau",
+    "Vorname": "Wilhelmine",
+    "Nachname": "Dolstoi",
+    "Telefonnummer": 7793486,
+    "BeziehungZumKind": "Großmutter",
+    "Geburtsdatum": "09.01.1954",
+    "darfabholen": [45, 46, 47]
+  },
+  {
+    "idAbholberechtigtePerson": 2,
+    "Anrede": "Herr",
+    "Vorname": "Ottokar",
+    "Nachname": "Dolstoi",
+    "Telefonnummer": 7793486,
+    "BeziehungZumKind": "Großvater",
+    "Geburtsdatum": "10.12.1953",
+    "darfabholen": [45, 46, 47]
+  },
+  {
+    "idAbholberechtigtePerson": 3,
+    "Anrede": "Frau",
+    "Vorname": "Cai",
+    "Nachname": "Le",
+    "Telefonnummer": 347961,
+    "BeziehungZumKind": "Tante",
+    "Geburtsdatum": "20.04.1984",
+    "darfabholen":[22, 23, 24]
+  },
+  {
+    "idAbholberechtigtePerson": 4,
+    "Anrede": "Frau",
+    "Vorname": "Hanh",
+    "Nachname": "Le",
+    "Telefonnummer": 33880012,
+    "BeziehungZumKind": "Großmutter",
+    "Geburtsdatum": "12.04.1965",
+    "darfabholen":[22, 23, 24]
+  },
+  {
+    "idAbholberechtigtePerson": 5,
+    "Anrede": "Herr",
+    "Vorname": "Ulf",
+    "Nachname": "Schmitz",
+    "Telefonnummer": 997789,
+    "BeziehungZumKind": "Großvater",
+    "Geburtsdatum": "03.03.1964",
+    "darfabholen": [63, 64, 65, 66, 67]
+  },
+  {
+    "idAbholberechtigtePerson": 6,
+    "Anrede": "Herr",
+    "Vorname": "Günther",
+    "Nachname": "Backes",
+    "Telefonnummer": 997790,
+    "BeziehungZumKind": "Großvater",
+    "Geburtsdatum": "03.07.1971",
+    "darfabholen": [63, 64, 65, 66, 67]
+  },
+  {
+    "idAbholberechtigtePerson": 7,
+    "Anrede": "Herr",
+    "Vorname": "David",
+    "Nachname": "Levi",
+    "Telefonnummer": 543078,
+    "BeziehungZumKind": "Großvater",
+    "Geburtsdatum": "02.12.1974",
+    "darfabholen": [48, 49, 50]
+     },
+  {
+    "idAbholberechtigtePerson": 8,
+    "Anrede": "Frau",
+    "Vorname": "Susanna",
+    "Nachname": "Levi",
+    "Telefonnummer": 543078,
+    "BeziehungZumKind": "Großmutter",
+    "Geburtsdatum": "02.12.1975",
+    "darfabholen": [48, 49, 50]
+  },
+  {
+    "idAbholberechtigtePerson": 9,
+    "Anrede": "Herr",
+    "Vorname": "Torsten",
+    "Nachname": "Töbel",
+    "Telefonnummer": 1239709,
+    "BeziehungZumKind": "Onkel",
+    "Geburtsdatum": "31.12.2000",
+    "darfabholen": [72, 73, 74]
+    
+  },
+  {
+    "idAbholberechtigtePerson": 10,
+    "Anrede": "Frau",
+    "Vorname": "Samira",
+    "Nachname": "Sausbach",
+    "Telefonnummer": 1239709,
+    "BeziehungZumKind": "Tante",
+    "Geburtsdatum": "03.03.2002",
+    "darfabholen": [72, 73, 74]
+
+  },
+  {
+    "idAbholberechtigtePerson": 11,
+    "Anrede": "Frau",
+    "Vorname": "Kati",
+    "Nachname": "Wirsing",
+    "Telefonnummer": 90789123,
+    "BeziehungZumKind": "Nachbarin",
+    "Geburtsdatum": "12.04.1980",
+    "darfabholen": [68, 69, 70, 71]
+   
+  },
+  {
+    "idAbholberechtigtePerson": 12,
+    "Anrede": "Herr",
+    "Vorname": "Jonas",
+    "Nachname": "Jones",
+    "Telefonnummer": 7789236,
+    "BeziehungZumKind": "Stiefvater",
+    "Geburtsdatum": "21.09.1983",
+    "darfabholen": [68, 69, 70, 71]
+  }
+]
