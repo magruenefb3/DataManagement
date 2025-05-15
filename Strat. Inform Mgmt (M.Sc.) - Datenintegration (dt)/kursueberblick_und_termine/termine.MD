@@ -21,7 +21,6 @@ Datenmodell erweitern und dokumentieren, z.B.
 * Erfassung der PO,  
 * Terminplanung,  
 * Bewerbungen,  
-* Themenzulosung und Themenvorschläge,  
 * Logging von Terminen mit Studierenden,  
 * Semesterzuordnung,  
 * Anlage von Erst- und Zweitkorrektor nebst Adressen / Telefonnrn.,
