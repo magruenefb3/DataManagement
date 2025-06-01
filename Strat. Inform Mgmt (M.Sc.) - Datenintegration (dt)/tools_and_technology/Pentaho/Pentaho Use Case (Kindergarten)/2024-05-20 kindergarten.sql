@@ -2,7 +2,7 @@
 --
 -- Host: localhost    Database: kindergarten
 -- ------------------------------------------------------
--- Server version	8.0.17
+-- Server version	8.0.17 
 
 /* (c) 2020 Prof. Dr. Markus Grüne; Weitergabe außerhalb der Lehrveranstaltung untersagt.*/
 
