@@ -1,0 +1,41 @@
+Adress-ID,Mandanten-ID,Straße,Hausnummer,Stadtteil,Postleitzahl,Stadt,Bundesland,Breitengrad,Längengrad
+A-0001,M-0004,Alter Markt,11,Altstadt,24103,Kiel,Schleswig-Holstein,54.3237326,10.1396321
+A-0002,M-0008,Goethestraße,22A,Ludwigsvorstadt-Kliniken,80336,München,Bayern,48.1359799,11.5586057
+A-0003,M-0016,Waller Heerstraße,105,Walle,28219,Bremen,Bremen,53.1010551,8.786434
+A-0004,M-0003,Breite Straße,6/8,Innenstadt,23552,Lübeck,Schleswig-Holstein,53.8709085,10.6879299
+A-0005,M-0010,Bahnhofstraße,12,St. Johann,66111,Saarbrücken,Saarland,49.2335422,6.9959251
+A-0006,M-0015,Ludwigsplatz,4,Mitte,67059,Ludwigshafen am Rhein,Rheinland-Pfalz,49.4845229,8.4462986
+A-0007,M-0018,Am Sandtorkai,70,HafenCity,20457,Hamburg,Hamburg,53.5426727,9.9870282
+A-0008,M-0012,Blumenweg,7,Schnelsen,22457,Hamburg,Hamburg,53.6507654,9.9274723
+A-0009,M-0002,Friedrichstraße,98,Mitte,10117,Berlin,Berlin,52.5200093,13.3885069
+A-0010,M-0005,Alter Markt,11,Altstadt,24103,Kiel,Schleswig-Holstein,54.3237326,10.1396321
+A-0011,M-0011,An der Kirchgasse,8,,04205,Leipzig,Sachsen,51.321861,12.258726
+A-0012,M-0007,Hauptstraße,15,Schöneberg,10827,Berlin,Berlin,52.4876355,13.3572798
+A-0013,M-0019,Georgsplatz,10,Mitte,30159,Hannover,Niedersachsen,52.3695142,9.7423331
+A-0014,M-0020,Immermannstraße,23,Stadtmitte,40210,Düsseldorf,Nordrhein-Westfalen,51.2238973,6.7868971
+A-0015,M-0014,Waldweg,20,Region Hannover,30900,Abbensen,Niedersachsen,52.5741197,9.6019003
+A-0016,M-0017,Arnulfstraße,60,Maxvorstadt,80335,München,Bayern,48.144458,11.549381
+A-0017,M-0013,An der Kirchgasse,8,,04205,Leipzig,Sachsen,51.321861,12.258726
+A-0018,M-0009,Bismarckstraße,70,Frankenberger Viertel,52066,Aachen,Nordrhein-Westfalen,50.7685594,6.1045276
+A-0019,M-0006,Bachstraße,12,Bilk,40223,Düsseldorf,Nordrhein-Westfalen,51.2079044,6.7665068
+A-0020,M-0001,Berliner Allee,55,Stadtmitte,40212,Düsseldorf,Nordrhein-Westfalen,51.2201272,6.7816138
+A-0021,,Marktplatz,9,Altstadt,69117,Heidelberg,Baden-Württemberg,49.4121861,8.7104223
+A-0022,,Große Steinstraße,18,Altstadt,06108,Halle (Saale),Sachsen-Anhalt,51.4847853,11.9729831
+A-0023,,Domstraße,10,Altstadt,55116,Mainz,Rheinland-Pfalz,49.9984684,8.2748623
+A-0024,,Alter Markt,11,Altstadt,24103,Kiel,Schleswig-Holstein,54.3237326,10.1396321
+A-0025,,Poststraße,5,Landkreis Regensburg,93080,Niedergebraching,Bayern,48.9607093,12.0736968
+A-0026,,Waldweg,20,Region Hannover,30900,Abbensen,Niedersachsen,52.5741197,9.6019003
+A-0027,,Ludwigsplatz,4,Mitte,67059,Ludwigshafen am Rhein,Rheinland-Pfalz,49.4845229,8.4462986
+A-0028,,Hauptstraße,15,Schöneberg,10827,Berlin,Berlin,52.4876355,13.3572798
+A-0029,,Bismarckstraße,70,Frankenberger Viertel,52066,Aachen,Nordrhein-Westfalen,50.7685594,6.1045276
+A-0030,,Königstraße,30,Stuttgart-Mitte,70173,Stuttgart,Baden-Württemberg,48.7779647,9.1774619
+A-0031,,Breite Straße,6/8,Innenstadt,23552,Lübeck,Schleswig-Holstein,53.8709085,10.6879299
+A-0032,,Lindenallee,45,Bockenheim,60488,Frankfurt am Main,Hessen,50.1333497,8.6373383
+A-0033,,Hauptstraße,15,Schöneberg,10827,Berlin,Berlin,52.4876355,13.3572798
+A-0034,,Ostwall,33,Mitte,44135,Dortmund,Nordrhein-Westfalen,51.5115047,7.4707548
+A-0035,,Alter Markt,11,Altstadt,24103,Kiel,Schleswig-Holstein,54.3237326,10.1396321
+A-0036,,Königstraße,55,"Altstadt, St. Lorenz",90402,Nürnberg,Bayern,49.4492056,11.0797781
+A-0037,,Willy-Brandt-Platz,5,Stadtkern,45127,Essen,Nordrhein-Westfalen,51.4526508,7.0122446
+A-0038,,Berliner Allee,55,Stadtmitte,40212,Düsseldorf,Nordrhein-Westfalen,51.2201272,6.7816138
+A-0039,,Georgsplatz,10,Mitte,30159,Hannover,Niedersachsen,52.3695142,9.7423331
+A-0040,,Bismarckstraße,70,Frankenberger Viertel,52066,Aachen,Nordrhein-Westfalen,50.7685594,6.1045276
