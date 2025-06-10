@@ -19,3 +19,5 @@ Die Studierenden sind in der Lage, Anforderungen für die Strukturierung einer D
 Die Erfahrung aus vergangenen Kursen zeigt, dass IT-Kenntnisse im Studiengang sehr unterschiedliche stark ausgeprägt sind. In diesem Kurs widmen wir uns daher dem Bau einer Anwendung in der Daten verarbeitet werden. Es werden grundlegende Konzepte des Datenmanagements und der Webentwicklung im Kontext der Erstellung eines webbasierten Informationssystems zur Verwaltung von Abschlussarbeiten erarbeitet.  
 Das ziel ist es, Sie zu einer eigenständigen Einarbeitung in die Inhalte, die zur Entwicklung der Anwendung notwendig sind, anzuleiten.
 Statt der Vorgabe eines Lösungsweges erhalten Sie einen Überblick über Werkzeugen und Verfahrensweisen, die in der IT-Abteilung verwendet werden, um datengetriebene Anwendungen zu bauen.  
+
+
