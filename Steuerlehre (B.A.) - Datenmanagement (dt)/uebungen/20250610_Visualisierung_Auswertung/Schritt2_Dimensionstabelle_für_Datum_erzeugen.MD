@@ -1,5 +1,13 @@
 # Erstellen einer Datumsdimensionstabelle in Power Query aus Einnahmen und Kosten
 
+## Voraussetzungen  
+
+Sie haben die folgende Datei heruntergeladen:  
+[Zusammengeführte Daten](Zusammengeführte_Daten.xlsx)
+
+Kopieren Sie diese und benennen Sie die Datei um nach:  
+`Schritt2_Dimensionstabelle_für_Datum_anlegen.xlsx`
+
 ## Hintergrund
 
 Eine Datumsdimensionstabelle (Date Dimension Table) ist ein Eckpfeiler der meisten Datenmodelle. 
@@ -46,13 +54,14 @@ in
     MaxDate // Nur, um den Wert auszugeben (vorerst).  
 ```
 
-Schließen und beenden. 
+Schließen und beenden.  
 
 3) Generierung einer Datumsliste:
 
 Öffnen Sie Ihre Abfrage "Date_Dimension_Builder" erneut.
 Ändern Sie die IN-Klausel, um eine Liste mit Datumsangaben zwischen MinDate und MaxDate zu erstellen.
 
+```
 let
     RevenueDates = Revenues[RevenueDate],
     CostDates = Costs[CostDate],
@@ -64,6 +73,7 @@ let
     DateList = List.Dates(MinDate, NumberOfDays, #duration(1, 0, 0, 0))
 in
     DateList
+```
 
 Wir sehen nun eine Liste mit Datumswerten, die wir noch in eine Tabelle konvertieren müssen: Mit "DateList" als aktueller Ausgabe klicken Sie in der Multifunktionsleiste auf "In Tabelle" (Registerkarte "Transformieren" > Gruppe "Konvertieren").  
 Im Dialogfeld können Sie das Trennzeichen auf "Keine" und "Behandlung zusätzlicher Spalten" auf "Fehler anzeigen" belassen.   Klicken Sie auf "OK".  
