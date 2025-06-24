@@ -1,0 +1,438 @@
+<map version="freeplane 1.12.1">
+<!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
+<node TEXT="SIM Data &amp; Process Integration" FOLDED="false" ID="ID_1090958577" CREATED="1606664858024" MODIFIED="1688978827704" VGAP_QUANTITY="3 pt">
+<hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
+<hook NAME="MapStyle" background="#fbf1c7ff" zoom="0.5">
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" fit_to_viewport="false" show_tags="UNDER_NODES" showTagCategories="false"/>
+    <tags category_separator="::"/>
+
+<map_styles>
+<stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
+<font SIZE="24"/>
+<stylenode LOCALIZED_TEXT="styles.predefined" POSITION="bottom_or_right" STYLE="bubble">
+<stylenode LOCALIZED_TEXT="default" ID="ID_7974122" ICON_SIZE="12 pt" FORMAT_AS_HYPERLINK="false" COLOR="#3c3836" BACKGROUND_COLOR="#fbf1c7" STYLE="bubble" SHAPE_HORIZONTAL_MARGIN="8 pt" SHAPE_VERTICAL_MARGIN="5 pt" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.9 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#f0f0f0" BORDER_DASH_LIKE_EDGE="true" BORDER_DASH="SOLID" VGAP_QUANTITY="3 pt">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_7974122" STARTARROW="DEFAULT" ENDARROW="NONE"/>
+<font NAME="SansSerif" SIZE="11" BOLD="false" STRIKETHROUGH="false" ITALIC="false"/>
+<edge STYLE="bezier" COLOR="#93a1a1" WIDTH="3" DASH="SOLID"/>
+<richcontent TYPE="DETAILS" CONTENT-TYPE="plain/auto"/>
+<richcontent TYPE="NOTE" CONTENT-TYPE="plain/auto"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.details"/>
+<stylenode LOCALIZED_TEXT="defaultstyle.tags">
+<font SIZE="10"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.attributes">
+<font SIZE="9"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.note" COLOR="#000000" BACKGROUND_COLOR="#f6f9a1" TEXT_ALIGN="LEFT"/>
+<stylenode LOCALIZED_TEXT="defaultstyle.floating">
+<edge STYLE="hide_edge"/>
+<cloud COLOR="#f0f0f0" SHAPE="ROUND_RECT"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.selection" COLOR="#ffffff" BACKGROUND_COLOR="#cc241d" BORDER_COLOR_LIKE_EDGE="false" BORDER_COLOR="#cc241d"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.user-defined" POSITION="bottom_or_right" STYLE="bubble">
+<stylenode LOCALIZED_TEXT="styles.important" ID="ID_103960811" BORDER_WIDTH="3 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#f0f0f0">
+<icon BUILTIN="yes"/>
+<arrowlink COLOR="#cc241d" TRANSPARENCY="255" DESTINATION="ID_103960811"/>
+<font SIZE="12" ITALIC="false"/>
+<edge COLOR="#cc241d"/>
+</stylenode>
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.AutomaticLayout" POSITION="bottom_or_right" STYLE="bubble">
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level.root" COLOR="#fdf6e3" BACKGROUND_COLOR="#282828" STYLE="bubble" SHAPE_HORIZONTAL_MARGIN="10 pt" SHAPE_VERTICAL_MARGIN="10 pt" BORDER_WIDTH="3.1 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#2c2b29" BORDER_DASH_LIKE_EDGE="true">
+<font NAME="Ubuntu" SIZE="18"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,1" COLOR="#282828" BACKGROUND_COLOR="#fbf1c7" STYLE="bubble" SHAPE_HORIZONTAL_MARGIN="8 pt" SHAPE_VERTICAL_MARGIN="5 pt" BORDER_COLOR="#2c2b29">
+<font NAME="Ubuntu" SIZE="16"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,2" COLOR="#282828" BACKGROUND_COLOR="#ebdbb2" STYLE="bubble" SHAPE_HORIZONTAL_MARGIN="8 pt" SHAPE_VERTICAL_MARGIN="5 pt" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#f0f0f0">
+<font SIZE="14"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,3" COLOR="#282828" BACKGROUND_COLOR="#d79921" STYLE="bubble" SHAPE_HORIZONTAL_MARGIN="8 pt" SHAPE_VERTICAL_MARGIN="5 pt" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#f0f0f0">
+<font SIZE="12"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,4" COLOR="#ffffff" BACKGROUND_COLOR="#458588" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#f0f0f0">
+<font SIZE="11"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,5" COLOR="#ffffff" BACKGROUND_COLOR="#b16286" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#f0f0f0">
+<font SIZE="11"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,6" COLOR="#ffffff" BACKGROUND_COLOR="#689d6a" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#f0f0f0">
+<font SIZE="10"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,7" COLOR="#ffffff" BACKGROUND_COLOR="#a89984" BORDER_COLOR="#f0f0f0">
+<font SIZE="10"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,8" BACKGROUND_COLOR="#ebdbb2" BORDER_COLOR="#f0f0f0">
+<font SIZE="10"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,9" BORDER_COLOR="#f0f0f0" BACKGROUND_COLOR="#ebdbb2">
+<font SIZE="10"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,10" BORDER_COLOR="#f0f0f0">
+<font SIZE="9"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,11" BORDER_COLOR="#f0f0f0" BACKGROUND_COLOR="#98971a">
+<font SIZE="9"/>
+</stylenode>
+</stylenode>
+</stylenode>
+</map_styles>
+</hook>
+<node TEXT="K1: Einführung" POSITION="bottom_or_right" ID="ID_28365286" CREATED="1624809067598" MODIFIED="1750774927955" VGAP_QUANTITY="3 pt">
+<icon BUILTIN="full-1"/>
+<node TEXT="Ziele der Integration" ID="ID_713164584" CREATED="1688458102143" MODIFIED="1688458107504">
+<node TEXT="B2B-Integration" POSITION="bottom_or_right" ID="ID_1162112560" CREATED="1624809379796" MODIFIED="1750774897144">
+<node TEXT="Mapping von Quell- in Zielsystem" ID="ID_1028177309" CREATED="1624809410986" MODIFIED="1624809420530"/>
+<node TEXT="Technologien harmonisieren" ID="ID_1977877924" CREATED="1624809427697" MODIFIED="1624809439788"/>
+<node TEXT="Legacy-Systeme einbinden" ID="ID_761838705" CREATED="1624809440080" MODIFIED="1624809449723"/>
+<node TEXT="Business Needs: Austausch mit Handelspartnern" ID="ID_1793819974" CREATED="1624809466361" MODIFIED="1624809496332"/>
+<node TEXT="Schaubild, S. 10" ID="ID_534335643" CREATED="1687844777559" MODIFIED="1687844781361"/>
+</node>
+<node TEXT="einheitlicher Zugriff auf Daten im Unt." POSITION="bottom_or_right" ID="ID_1513757296" CREATED="1624809559017" MODIFIED="1750774897144">
+<node TEXT="Stichwort: integriertes Informationssystem" ID="ID_722691843" CREATED="1624809649673" MODIFIED="1624809671152"/>
+<node TEXT="&quot;Objekte&quot; der Int." ID="ID_812465671" CREATED="1624809671663" MODIFIED="1624809686262">
+<node TEXT="Daten" ID="ID_1076421911" CREATED="1624809687579" MODIFIED="1624809689995"/>
+<node TEXT="Methoden" ID="ID_455301802" CREATED="1624809690915" MODIFIED="1624809693447"/>
+<node TEXT="Prozesse" ID="ID_976876879" CREATED="1624809695643" MODIFIED="1624809697611"/>
+<node TEXT="Frontends" ID="ID_293150453" CREATED="1624809699828" MODIFIED="1624809702964"/>
+</node>
+</node>
+</node>
+<node TEXT="Arten der Integration" ID="ID_1044395229" CREATED="1624809502525" MODIFIED="1750774897145">
+<node TEXT="homegrown" ID="ID_1276970459" CREATED="1624809516718" MODIFIED="1687844704021">
+<node TEXT="&quot;quick and dirty&quot;" ID="ID_1556361966" CREATED="1687844705656" MODIFIED="1687844719083"/>
+</node>
+<node TEXT="point-to-point" ID="ID_1700231638" CREATED="1624809524263" MODIFIED="1624809528405"/>
+<node TEXT="hubs-and-spokes integration" ID="ID_1122324333" CREATED="1624809534361" MODIFIED="1624809550450"/>
+<node TEXT="Weitere Integrationstechnologien - Workflows, ..." ID="ID_1561655516" CREATED="1687844753703" MODIFIED="1687844765578"/>
+<node TEXT="Daten Wertschöpfungskette" ID="ID_1502097740" CREATED="1688904914378" MODIFIED="1750774897145"/>
+</node>
+<node TEXT="Herausforderungen" ID="ID_831835962" CREATED="1624809709290" MODIFIED="1719579346054">
+<node TEXT="Verteilung" ID="ID_1782165471" CREATED="1624809714980" MODIFIED="1624809717225"/>
+<node TEXT="Heterogenität" ID="ID_1864437032" CREATED="1624809717575" MODIFIED="1624809721826">
+<node TEXT="Datenmodell" ID="ID_1910582453" CREATED="1624809723670" MODIFIED="1624809726329"/>
+<node TEXT="..." ID="ID_948025539" CREATED="1624809726909" MODIFIED="1624809727811"/>
+</node>
+<node TEXT="Rauschen" ID="ID_1469262561" CREATED="1624809729271" MODIFIED="1624809736289"/>
+<node TEXT="Schaffung eines einheitlichen Datenmodells" ID="ID_1290467213" CREATED="1624809740641" MODIFIED="1688904938678"/>
+</node>
+<node TEXT="Grundlegende Definitionen" ID="ID_125657256" CREATED="1624809756022" MODIFIED="1719579388368">
+<node TEXT="Datenquelle" ID="ID_1844737851" CREATED="1624809762287" MODIFIED="1624809764416"/>
+<node TEXT="Int. IS" ID="ID_52242109" CREATED="1624809768377" MODIFIED="1750774897145" BACKGROUND_COLOR="#00cc00">
+<arrowlink DESTINATION="ID_1943254583"/>
+<arrowlink DESTINATION="ID_722691843"/>
+</node>
+<node TEXT="Transparenter Zugriff" ID="ID_442199675" CREATED="1624809773258" MODIFIED="1624809777567"/>
+<node TEXT="Metadaten" ID="ID_982267262" CREATED="1624809782326" MODIFIED="1624809785825">
+<node TEXT="wozu?" ID="ID_958390805" CREATED="1624809790314" MODIFIED="1624809792956"/>
+</node>
+</node>
+<node TEXT="Integrationsszenarien" ID="ID_1189969890" CREATED="1624809800238" MODIFIED="1719579437127">
+<node TEXT="M&amp;A" ID="ID_1552068723" CREATED="1624809806850" MODIFIED="1624809808851"/>
+<node TEXT="CRM" ID="ID_640735663" CREATED="1624809810035" MODIFIED="1624809810995"/>
+</node>
+<node TEXT="Technische Lösungen" ID="ID_1064132234" CREATED="1624809817406" MODIFIED="1719579441304">
+<node TEXT="EAI" ID="ID_1433344323" CREATED="1624809823131" MODIFIED="1624809825055"/>
+<node TEXT="SOA" ID="ID_1684550154" CREATED="1624809825992" MODIFIED="1624809827074"/>
+</node>
+</node>
+<node TEXT="K2: Datenintegrationsarchitektur" POSITION="bottom_or_right" ID="ID_840647221" CREATED="1624809084123" MODIFIED="1750774937270" VGAP_QUANTITY="3 pt">
+<icon BUILTIN="full-1"/>
+<node TEXT="Architekturen" ID="ID_744283260" CREATED="1687844959551" MODIFIED="1688905119096">
+<node TEXT="ANSI / 3-Schicht" ID="ID_1154997307" CREATED="1687844962567" MODIFIED="1750774636021" BACKGROUND_COLOR="#33ff33"/>
+<node TEXT="4-Schicht" ID="ID_1605121035" CREATED="1687844968191" MODIFIED="1687844974105"/>
+<node TEXT="MDBMS" POSITION="bottom_or_right" ID="ID_1736817738" CREATED="1624810009078" MODIFIED="1624810015941">
+<node TEXT="kein globales konz. Schema" ID="ID_783587890" CREATED="1624810026642" MODIFIED="1624810034600"/>
+<node TEXT="lose gekoppelt" ID="ID_177170106" CREATED="1624810035256" MODIFIED="1624810040073"/>
+<node TEXT="Exportschema: lokales Schema wird für die Verwendung nach außen sichtbar gemacht" ID="ID_725981854" CREATED="1624810044226" MODIFIED="1624810065500"/>
+</node>
+</node>
+<node TEXT="materielle / virtuelle Integration" ID="ID_1805402615" CREATED="1688458203909" MODIFIED="1750774631377">
+<arrowlink DESTINATION="ID_1182988762"/>
+<node TEXT="materielle" POSITION="bottom_or_right" ID="ID_1291691554" CREATED="1624809888883" MODIFIED="1750774897146">
+<node TEXT="~ Data Warehousing" ID="ID_708206020" CREATED="1624809899091" MODIFIED="1624809907215"/>
+<node TEXT="Begriffe kennen: ETL, Core, ..." ID="ID_907732411" CREATED="1687853146955" MODIFIED="1687853156543"/>
+</node>
+<node TEXT="virtuelle Integration = mediated schema" POSITION="bottom_or_right" ID="ID_367958812" CREATED="1624809946577" MODIFIED="1750774897146"/>
+<node TEXT="Logische Komponenten kennen" POSITION="bottom_or_right" ID="ID_64153005" CREATED="1624809970216" MODIFIED="1624809974831">
+<node TEXT="Mediator" ID="ID_735079473" CREATED="1687844926911" MODIFIED="1687844929292"/>
+<node TEXT="Wrapper" ID="ID_865188184" CREATED="1687844929567" MODIFIED="1687844931610"/>
+</node>
+</node>
+</node>
+<node TEXT="K3: Herausforderungen der Datenint." POSITION="bottom_or_right" ID="ID_275439444" CREATED="1624809101147" MODIFIED="1750775077479">
+<icon BUILTIN="full-2"/>
+<node TEXT="wie sähe der &quot;Idealzustand&quot; im Unt. aus?" ID="ID_1943254583" CREATED="1624810530728" MODIFIED="1624810543705">
+<node TEXT="alles läuft reibungslos, d.h. homogene Systeme..." ID="ID_1197056958" CREATED="1687845039295" MODIFIED="1687845075171"/>
+<node TEXT="der Idealzustand ist nicht erreichbar und jetzt?" POSITION="bottom_or_right" ID="ID_1327135499" CREATED="1624810608608" MODIFIED="1624810643070">
+<node TEXT="Datenintegration auf mehreren Ebenen" ID="ID_1723736279" CREATED="1624810645079" MODIFIED="1624810659844"/>
+<node TEXT="technisch: Verschlüsselung ..." ID="ID_382554665" CREATED="1624810660449" MODIFIED="1624810669144"/>
+<node TEXT="SLAs" ID="ID_1335126111" CREATED="1624810670273" MODIFIED="1750774897147"/>
+<node TEXT="Semantische Unterschiede schließen" ID="ID_1978165862" CREATED="1624810701975" MODIFIED="1624810707673"/>
+</node>
+</node>
+<node TEXT="Herausforderungen" ID="ID_1182988762" CREATED="1624810716697" MODIFIED="1719579471168">
+<node TEXT="Distribution / Verteilung" ID="ID_1165619649" CREATED="1624810721977" MODIFIED="1624810743033">
+<node TEXT="physisch" ID="ID_1264445860" CREATED="1624810752734" MODIFIED="1624810757236"/>
+<node TEXT="logisch" ID="ID_278211400" CREATED="1624810759449" MODIFIED="1624810761810"/>
+</node>
+<node TEXT="Autonomie" ID="ID_134473797" CREATED="1624810725048" MODIFIED="1624810727217">
+<node TEXT="Interface" ID="ID_116657083" CREATED="1624812321377" MODIFIED="1624812324588">
+<node TEXT="technisch: Protokolloe, Abfragesprachen" ID="ID_345001049" CREATED="1624812380342" MODIFIED="1624812400879"/>
+<node TEXT="logisch: Berechtigungen, ..." ID="ID_1931617659" CREATED="1624812409301" MODIFIED="1624812421171"/>
+</node>
+<node TEXT="Design" ID="ID_890056481" CREATED="1624812325588" MODIFIED="1624812327913">
+<node TEXT="Datenformate und -modelle" ID="ID_51264274" CREATED="1624812347145" MODIFIED="1624812356380"/>
+<node TEXT="Syntaktisch" ID="ID_903983228" CREATED="1624812357146" MODIFIED="1624812365176"/>
+</node>
+<node TEXT="Access" ID="ID_18205380" CREATED="1624812329344" MODIFIED="1624812332329">
+<node TEXT="Hoheit +über eigene Daten" ID="ID_260254719" CREATED="1624812445202" MODIFIED="1624812467479">
+<arrowlink DESTINATION="ID_1931617659"/>
+</node>
+</node>
+<node TEXT="Rechtlich" ID="ID_1383218247" CREATED="1624812333259" MODIFIED="1624812335390"/>
+</node>
+<node TEXT="Heterogenität" ID="ID_1280851068" CREATED="1624810728010" MODIFIED="1624810733247">
+<node TEXT="technisch" ID="ID_1199342900" CREATED="1624812474845" MODIFIED="1624812477494">
+<node TEXT="Abfragemöglichkeiten (query facility)" ID="ID_93996073" CREATED="1624812505425" MODIFIED="1624812540381"/>
+</node>
+<node TEXT="syntaktische" ID="ID_1001621317" CREATED="1624812562332" MODIFIED="1624812565921"/>
+<node TEXT="strukturelle" ID="ID_90612126" CREATED="1624812577339" MODIFIED="1624812580140">
+<node TEXT="zwei Schemas für dasselbe Objekt" ID="ID_728189219" CREATED="1624812581079" MODIFIED="1624812587775"/>
+</node>
+<node TEXT="semantisch" ID="ID_1265922931" CREATED="1624812595845" MODIFIED="1624812598356">
+<node TEXT="unterschiedliche Bedeutungen" ID="ID_1521479431" CREATED="1624812599253" MODIFIED="1624812608535"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="Erklärung" POSITION="bottom_or_right" ID="ID_39193316" CREATED="1750775213637" MODIFIED="1750775308784"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Die Ziffern in den Kugeln symbolisieren die Wichtigkeit des jeweiligen Themenbereichs.
+    </p>
+    <p>
+      (1) sehr wichtig
+    </p>
+    <p>
+      (2) wichtig
+    </p>
+    <p>
+      (3) wichtig, ggf. Fragen am Rande
+    </p>
+    <p>
+      (4) .. eher unwichtig.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      In der Nachklausur gelten die Verteilungen und &quot;Wichtigkeiten&quot; nicht mehr.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Kommt nicht dran" POSITION="top_or_left" ID="ID_971627461" CREATED="1750774951520" MODIFIED="1750774972003">
+<icon BUILTIN="stop-sign"/>
+<node TEXT="K6a: IT-Management-Prinzipien" POSITION="top_or_left" ID="ID_1570332298" CREATED="1624809142564" MODIFIED="1720639739107">
+<node TEXT="IT-Management" ID="ID_1350128066" CREATED="1624813249786" MODIFIED="1624813253200">
+<node TEXT="Steuerung sämtlicher Belange, die mit IT verbunden" ID="ID_1531005923" CREATED="1624813264493" MODIFIED="1750774897147">
+<node TEXT="--&gt; Management der Informationen" POSITION="bottom_or_right" ID="ID_282447002" CREATED="1624813276817" MODIFIED="1624813284839"/>
+<node TEXT="--&gt; Management der Datenflüsse" POSITION="bottom_or_right" ID="ID_689011536" CREATED="1624813285517" MODIFIED="1624813291948"/>
+<node TEXT="--&gt; Management der Architektur" POSITION="bottom_or_right" ID="ID_1457731856" CREATED="1624813293605" MODIFIED="1624813300597"/>
+</node>
+<node TEXT="Informationsmanagement (dem Datenmanagement übergeordnet)" ID="ID_148044435" CREATED="1624813221542" MODIFIED="1750774897147">
+<node TEXT="Planung der Daten- und Informationsbedarfe und -flüsse" ID="ID_603862733" CREATED="1624813350900" MODIFIED="1624813362949"/>
+<node TEXT="Daten, Informationen, Wissen" ID="ID_1387132720" CREATED="1624813383413" MODIFIED="1750774897147">
+<node TEXT="Informationslogistik" ID="ID_1314136078" CREATED="1624813399517" MODIFIED="1624813419291">
+<arrowlink DESTINATION="ID_603862733"/>
+<node TEXT="Informationslogistik" ID="ID_1180047223" CREATED="1624813442446" MODIFIED="1624813447291"/>
+<node TEXT="Lebenszyklusmodell der Informationsnachfrage" ID="ID_118304917" CREATED="1624813457113" MODIFIED="1750774897148"/>
+<node TEXT="Ermittlung des Informationsbedarfs" ID="ID_841606877" CREATED="1624813471275" MODIFIED="1750774897148"/>
+</node>
+</node>
+<node TEXT="Informationsgewinnung" ID="ID_1869097301" CREATED="1624813491141" MODIFIED="1624813495678">
+<node TEXT="aus internen Daten, z.B. mittels BI (DWH, Reporting)" ID="ID_907422431" CREATED="1624813511786" MODIFIED="1624813525073"/>
+<node TEXT="Datenauswertung durch interaktive Dashboards" ID="ID_1593294952" CREATED="1624813535159" MODIFIED="1624813542804"/>
+</node>
+</node>
+<node TEXT="Enterprise Architecture Management" ID="ID_1961159261" CREATED="1624813553687" MODIFIED="1719579526683">
+<node TEXT="Ziele" ID="ID_1026260313" CREATED="1624813596958" MODIFIED="1624813598887"/>
+<node TEXT="Geschäftsarchitektur versus IT-Bebauung" ID="ID_1961149338" CREATED="1624813611958" MODIFIED="1624813623308"/>
+<node TEXT="Technologiemanagement" ID="ID_84087346" CREATED="1624813638800" MODIFIED="1624813645851"/>
+<node TEXT="Infrastrukturmanagement" ID="ID_1470426267" CREATED="1624813650510" MODIFIED="1688459356121"/>
+<node TEXT="Architekturarten" POSITION="bottom_or_right" ID="ID_903109828" CREATED="1624813791867" MODIFIED="1688459350042">
+<node TEXT="Geschäftsarchitektur" ID="ID_1693109143" CREATED="1624813797625" MODIFIED="1624813802742"/>
+<node TEXT="Application Architecture" ID="ID_292976549" CREATED="1624813805135" MODIFIED="1688459244031"/>
+<node TEXT="Technology Architecture" ID="ID_1083772334" CREATED="1624813833762" MODIFIED="1624813844793"/>
+</node>
+</node>
+<node TEXT="Prozessbeschreibungssprachen" ID="ID_861632420" CREATED="1624813866439" MODIFIED="1750774897148"/>
+</node>
+</node>
+<node TEXT="Datenbanken" POSITION="top_or_left" ID="ID_1375975301" CREATED="1687848085722" MODIFIED="1750774868873">
+<node TEXT="K4: RDBMS" POSITION="bottom_or_right" ID="ID_1573114306" CREATED="1624809116486" MODIFIED="1750774659928">
+<node TEXT="Definitionen - DBS, DBMS, Datenbank" ID="ID_1203324178" CREATED="1624812654946" MODIFIED="1688458993847"/>
+<node TEXT="Funktionen / Eigenschaften einer DB" ID="ID_1870903994" CREATED="1624812714722" MODIFIED="1624812723827">
+<node TEXT="Persistenz, Interfaces, Multiuser, Sicherheit, Transaktionen, ..." ID="ID_825442178" CREATED="1624812733308" MODIFIED="1624812750202"/>
+</node>
+<node TEXT="ANSI-SPARC" POSITION="bottom_or_right" ID="ID_1467010463" CREATED="1624812770159" MODIFIED="1750774877004">
+<node TEXT="Views, konz. Ebene, interne Ebene" ID="ID_313829832" CREATED="1624812787663" MODIFIED="1624812797218"/>
+<node TEXT="Zusammenhang: auf welcher Ebene befindet sich das ER-Modell?" ID="ID_566055116" CREATED="1688459004774" MODIFIED="1688459022349"/>
+</node>
+</node>
+<node TEXT="K5: Statische Modelle" FOLDED="true" POSITION="bottom_or_right" ID="ID_832050229" CREATED="1624809123595" MODIFIED="1719579496035">
+<node TEXT="Kategorisierung von Daten: unstrukturiert ... strukturiert" ID="ID_733508696" CREATED="1624812899820" MODIFIED="1688458971207">
+<icon BUILTIN="75%"/>
+</node>
+<node TEXT="Data Dictionary zur Verwaltung von Metadaten" ID="ID_132783634" CREATED="1624812922049" MODIFIED="1688458961410">
+<icon BUILTIN="50%"/>
+</node>
+<node TEXT="ER-Modell" ID="ID_556634491" CREATED="1624812938061" MODIFIED="1624812940666">
+<node TEXT="Überführung von ER-Modell in Relationen" ID="ID_1791308205" CREATED="1624812942451" MODIFIED="1688458755475">
+<icon BUILTIN="0%"/>
+</node>
+<node TEXT="Komponenten" ID="ID_1602008571" CREATED="1624812955616" MODIFIED="1688458777293">
+<icon BUILTIN="0%"/>
+</node>
+<node TEXT="Schritte zur Entwicklung eines ER-Modells" ID="ID_1283896761" CREATED="1624812971814" MODIFIED="1688458769414">
+<icon BUILTIN="0%"/>
+</node>
+<node TEXT="Relationen: Name, Key, Attribute, Datentypen, ..." ID="ID_25978439" CREATED="1624812986915" MODIFIED="1688458836226">
+<icon BUILTIN="100%"/>
+</node>
+<node TEXT="Normalformen (bis 3NF) und Anomalien" ID="ID_223932665" CREATED="1624813013560" MODIFIED="1688458826612">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="75%"/>
+<node TEXT="grundsätzlichen Gedanken verstehen" ID="ID_479055388" CREATED="1688458784341" MODIFIED="1688458793719"/>
+<node TEXT="Ziel: immer Objekte voneinander trennen - NIE in einer Tabelle mischen" ID="ID_1350983268" CREATED="1688458794781" MODIFIED="1688458810039"/>
+</node>
+<node TEXT="Krähenfußnotation kennen und deuten können" POSITION="bottom_or_right" ID="ID_949975795" CREATED="1624812884842" MODIFIED="1688458867354">
+<icon BUILTIN="idea"/>
+</node>
+</node>
+<node TEXT="MySQL-Modelle verstehen können" ID="ID_1221050140" CREATED="1624813114833" MODIFIED="1688458940158">
+<icon BUILTIN="yes"/>
+<icon BUILTIN="100%"/>
+<arrowlink DESTINATION="ID_25978439"/>
+<node TEXT="Foreign Keys" ID="ID_830306313" CREATED="1688458722557" MODIFIED="1688458727815"/>
+<node TEXT="Identifying Relationships" ID="ID_422197811" CREATED="1688458728532" MODIFIED="1688458735935"/>
+</node>
+<node TEXT="Einfache SQL-Statements verstehen" ID="ID_1465251917" CREATED="1624813123204" MODIFIED="1688458981429">
+<icon BUILTIN="yes"/>
+<icon BUILTIN="100%"/>
+<node TEXT="Group By, Having" ID="ID_810791902" CREATED="1688458697341" MODIFIED="1688458702183"/>
+<node TEXT="Joins (ON, WHERE)" ID="ID_385843461" CREATED="1688458702894" MODIFIED="1688458713702"/>
+</node>
+<node TEXT="SQL schreiben können!!!" ID="ID_1053735373" CREATED="1688849854919" MODIFIED="1750774668396"/>
+<node TEXT="Verbesserungsmöglichkeiten für Modelle" ID="ID_1787606521" CREATED="1688905227188" MODIFIED="1750774665788"/>
+</node>
+<node TEXT="Datenarten (XML, JSON, Relational)" POSITION="top_or_left" ID="ID_948547278" CREATED="1720346549512" MODIFIED="1750774897150"/>
+</node>
+</node>
+<node TEXT="K7: Cloud Computing" POSITION="top_or_left" ID="ID_399643701" CREATED="1624809300801" MODIFIED="1750775143912">
+<icon BUILTIN="full-3"/>
+<node TEXT="Grundlagen des Cloud Computings" ID="ID_1246545811" CREATED="1624814196264" MODIFIED="1750774897149">
+<node TEXT="Definition" ID="ID_1466711844" CREATED="1687845679495" MODIFIED="1750774897150">
+<node TEXT="Auslagerung von Anwendungen, Daten und Rechenvorgängen ins Web" ID="ID_1050767953" CREATED="1687845742174" MODIFIED="1687845755281"/>
+<node TEXT="Utility Computing" POSITION="bottom_or_right" ID="ID_1411432421" CREATED="1687845823320" MODIFIED="1687845827481"/>
+<node TEXT="Grid Computing" POSITION="bottom_or_right" ID="ID_327074175" CREATED="1687845836685" MODIFIED="1687845839416"/>
+</node>
+<node TEXT="NIST-Modell" ID="ID_3047753" CREATED="1687845764557" MODIFIED="1688905358117">
+<node TEXT="Services: IaaS, PaaS, SaaS" ID="ID_477600412" CREATED="1687845769006" MODIFIED="1687845779232"/>
+<node TEXT="Deployment Models: privat, public, hybrid" ID="ID_1538741880" CREATED="1687845786974" MODIFIED="1687845799320"/>
+</node>
+</node>
+</node>
+<node TEXT="K3b: Datenbereinigung und Data Provenance" POSITION="top_or_left" ID="ID_1403708657" CREATED="1687845946062" MODIFIED="1750775133812">
+<icon BUILTIN="full-3"/>
+<node TEXT="Provenance - Entstehungs-&quot;Geschichte&quot; der Daten" ID="ID_1383392879" CREATED="1687852660716" MODIFIED="1687852684207">
+<node TEXT="wie sind diese entstanden?" ID="ID_123662758" CREATED="1687852684692" MODIFIED="1687852690407"/>
+<node TEXT="plausibel?" ID="ID_892547756" CREATED="1687852690988" MODIFIED="1687852700717"/>
+<node TEXT="Why, Where, How" ID="ID_819287154" CREATED="1687852812884" MODIFIED="1687852834726"/>
+</node>
+<node TEXT="Analysemöglichkeiten" ID="ID_1051082670" CREATED="1687852851348" MODIFIED="1687852857119">
+<node TEXT="Ergebnisse sichten --&gt; instanzbasiert" ID="ID_1678909991" CREATED="1687852857588" MODIFIED="1687852871286"/>
+<node TEXT="Abfragen sichten --&gt; anfragebasiert" ID="ID_990171282" CREATED="1687852872076" MODIFIED="1687852886526"/>
+</node>
+<node TEXT="Wie können Fehler entstehen?" ID="ID_1751119105" CREATED="1687852900028" MODIFIED="1687852909926">
+<node TEXT="Beispiele" ID="ID_1562970119" CREATED="1687852972044" MODIFIED="1687852973726"/>
+<node TEXT="Datenqualitätsprobleme" ID="ID_536432424" CREATED="1687852921972" MODIFIED="1687852935157">
+<node TEXT="Single Source, Multi-Source" POSITION="bottom_or_right" ID="ID_1438637195" CREATED="1687852925908" MODIFIED="1687852948648"/>
+<node TEXT="Instanz- / Schema-Level" POSITION="bottom_or_right" ID="ID_198972239" CREATED="1687852949228" MODIFIED="1687852959002"/>
+</node>
+</node>
+<node TEXT="Bereinigungsmöglichkeiten" ID="ID_1859619221" CREATED="1687852984628" MODIFIED="1750775179762">
+<node TEXT="Scrubbing" ID="ID_340849622" CREATED="1687852990740" MODIFIED="1687852995599">
+<node TEXT="hier auf eine Datenquelle bezogen" ID="ID_451927961" CREATED="1687853061812" MODIFIED="1687853068342"/>
+</node>
+<node TEXT="Cleansing" ID="ID_485843006" CREATED="1687852996076" MODIFIED="1687853000454">
+<node TEXT="hier im engeren Sinne datenquellenübergreifend" ID="ID_1209477037" CREATED="1687853040051" MODIFIED="1687853059567"/>
+</node>
+</node>
+</node>
+<node TEXT="~15 % Sonstiges" POSITION="top_or_left" ID="ID_1634071813" CREATED="1688459993972" MODIFIED="1750775025412">
+<node TEXT="Entwicklung des Prototypen und Transfer" POSITION="bottom_or_right" ID="ID_661146995" CREATED="1750774772302" MODIFIED="1750775053613">
+<icon BUILTIN="full-1"/>
+</node>
+<node TEXT="Exkurs: Hadoop als Integrationstechnologie (K5b)" POSITION="bottom_or_right" ID="ID_1511112437" CREATED="1687845194510" MODIFIED="1750774818281">
+<node TEXT="Hadoop-Komponenten verstehen" ID="ID_64935127" CREATED="1687845236910" MODIFIED="1687845248585">
+<node TEXT="was machen die einzelnen Komponenten?" ID="ID_770739010" CREATED="1687845248975" MODIFIED="1687845257041"/>
+<node TEXT="Hadoop --&gt; Cluster, ..." ID="ID_266470765" CREATED="1687845257510" MODIFIED="1687845271721"/>
+<node TEXT="Architekturen mit Hadoop, z.B. Folie 9" ID="ID_575432827" CREATED="1687845308398" MODIFIED="1687845325984"/>
+<node TEXT="Eigenständig: Map Reduce verstehen / nachlesen" ID="ID_1793475438" CREATED="1687845290502" MODIFIED="1750775315778"/>
+</node>
+<node TEXT="Vor- und Nachteile Hadoop" POSITION="bottom_or_right" ID="ID_534650728" CREATED="1687845337615" MODIFIED="1687845343152"/>
+<node TEXT="Neuere Technologie - SPARK" POSITION="bottom_or_right" ID="ID_992006982" CREATED="1687845350014" MODIFIED="1687845358873">
+<node TEXT="eigenständig recherchieren" ID="ID_1978105141" CREATED="1687845359311" MODIFIED="1687845364240"/>
+</node>
+<node TEXT="K6b: Datenverarbeitungsarchitekturen" POSITION="bottom_or_right" ID="ID_397251762" CREATED="1687845415086" MODIFIED="1750774986621">
+<node TEXT="Streaming-Architekturen" ID="ID_1897906733" CREATED="1688459718173" MODIFIED="1720349297545">
+<node TEXT="Lambda" POSITION="bottom_or_right" ID="ID_211806565" CREATED="1687845423958" MODIFIED="1750774691664">
+<node TEXT="Ältere Architektur, die aus zwei Verarbeitungs-Komponenten besteht" ID="ID_558845767" CREATED="1687845464502" MODIFIED="1687845480759">
+<node TEXT="Batch Layer" ID="ID_402932478" CREATED="1687845480768" MODIFIED="1687845484233"/>
+<node TEXT="Speed Layer" ID="ID_1099185441" CREATED="1687845484566" MODIFIED="1687845488176"/>
+<node TEXT="..." ID="ID_1121238509" CREATED="1687845488662" MODIFIED="1687845490568"/>
+</node>
+</node>
+<node TEXT="Kappa" POSITION="bottom_or_right" ID="ID_158999902" CREATED="1687845426686" MODIFIED="1688905327804">
+<node TEXT="Neuere Architektur" ID="ID_211793711" CREATED="1687845492150" MODIFIED="1687845497471">
+<node TEXT="alles ist ein Stream" ID="ID_1326852844" CREATED="1687845497476" MODIFIED="1687845501449"/>
+<node TEXT="Batches werden in Mikro-Batches überführt" ID="ID_1392171930" CREATED="1687845501918" MODIFIED="1687845514552"/>
+<node TEXT="zentrale &quot;Tabelle&quot;" ID="ID_993535516" CREATED="1687845515023" MODIFIED="1687845519440"/>
+</node>
+</node>
+<node TEXT="Fragen" POSITION="bottom_or_right" ID="ID_1825869587" CREATED="1688459691765" MODIFIED="1750774897148">
+<node TEXT="Wie hängen diese mit DWH zusammen?" POSITION="bottom_or_right" ID="ID_1044161265" CREATED="1687845447910" MODIFIED="1687845460752"/>
+<node TEXT="Welche Einsatzmöglichkeiten gibt es?" POSITION="bottom_or_right" ID="ID_1071024873" CREATED="1687845540614" MODIFIED="1687845548001"/>
+</node>
+</node>
+<node TEXT="Complex Event Processing" ID="ID_1636008261" CREATED="1687845428991" MODIFIED="1750774897149">
+<node TEXT="Konzeptuelle Basis von &quot;Streaming&quot;-Architekturen" ID="ID_981076610" CREATED="1687845637366" MODIFIED="1687845650168"/>
+<node TEXT="Modellelemente" ID="ID_1999103426" CREATED="1687845559661" MODIFIED="1687845564568">
+<node TEXT="System, Ereignis, Zustand, ..." ID="ID_1038724932" CREATED="1687845565430" MODIFIED="1687845574944"/>
+</node>
+<node TEXT="Ereignisstrom und Ereignisinstanz" ID="ID_1986740029" CREATED="1687845585478" MODIFIED="1687845598816"/>
+<node TEXT="Atomare und komplexe Ereignisse" ID="ID_1634476461" CREATED="1688459767445" MODIFIED="1688459773951"/>
+<node TEXT="Fenster" ID="ID_417102268" CREATED="1688459804222" MODIFIED="1688459805590">
+<node TEXT="Gleitendes Längenfenster" POSITION="bottom_or_right" ID="ID_241153025" CREATED="1687845614190" MODIFIED="1687845620128"/>
+<node TEXT="Gleitendes Zeitfenster" POSITION="bottom_or_right" ID="ID_1134499954" CREATED="1687845620550" MODIFIED="1687845626544"/>
+</node>
+</node>
+<node TEXT="Nicht im Detail besprochen: Data Stream Processing: SMACK und Google Cloud Data Fusion - Interessant" POSITION="bottom_or_right" ID="ID_392561267" CREATED="1624809259899" MODIFIED="1750774897149">
+<node TEXT="Was ist mit dem SMACK-Stack möglich?" ID="ID_1854866066" CREATED="1624813954477" MODIFIED="1624813966352"/>
+<node TEXT="Google Cloud Data Fusion" ID="ID_141400656" CREATED="1624814021174" MODIFIED="1624814027580"/>
+<node TEXT="Fazit: können als Integrationstechnologien für heterogene Quellen in der Cloud verwendet werden." ID="ID_1076765567" CREATED="1624814029230" MODIFIED="1624814056469"/>
+<node TEXT="Verarbeitung von Streams teilweise möglich." ID="ID_955628087" CREATED="1624814058150" MODIFIED="1624814066398"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</map>
